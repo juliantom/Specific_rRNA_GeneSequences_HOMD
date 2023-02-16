@@ -14,22 +14,18 @@ Data for 3 taxa can be found in individual folders:
 3. Veillonella<br>
 ---
 ```bash
+# Create repository and link
 git init
 git add ProjectFolderName
 git commit -m "first commit"
 git remote add origin https://github.com/YourGithubUsername/RepositoryName.git
 git push -u origin master
-
+# pull README.md and LICENSE files to match github repository
 git pull -f origin main
-#
+# add files inside folder
 git init
 git add .
-git commit -m hello.txt
-git push origin main
-#
-git add ./folderName
-git status
-git commit -m "your commit"
-git push -u origin master
+git commit -m "Folder name"/"File name"
+git push -u origin main
 ```
 
