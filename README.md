@@ -2,7 +2,7 @@
 ### 
 ### Necessary data from HOMD and target taxa
 ---
-Data obtained from HOMD on 02/16/2023:
+Data obtained from HOMD (https://www.homd.org/ftp/16S_rRNA_refseq/HOMD_16S_rRNA_RefSeq/current/) on 02/16/2023:
 1. seqid_info.txt (09-Feb-2021 20:49)
 2. HOMD_16S_rRNA_RefSeq_V15.22.fasta (09-Feb-2021 20:49)<br>
 
