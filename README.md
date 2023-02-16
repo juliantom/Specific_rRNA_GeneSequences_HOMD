@@ -22,8 +22,14 @@ git push -u origin master
 
 git pull -f origin main
 #
+git init
 git add .
 git commit -m hello.txt
 git push origin main
+#
+git add ./folderName
+git status
+git commit -m "your commit"
+git push -u origin master
 ```
 
