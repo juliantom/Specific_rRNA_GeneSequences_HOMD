@@ -4,6 +4,6 @@
 ```bash
 workPath=/Users/julian/Desktop/Active_projects/
 workDir=2023-Tongue_16S_rRNA
-
-
+hh 
+k
 ```
