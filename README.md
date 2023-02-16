@@ -14,6 +14,12 @@ Data for 3 taxa can be found in individual folders:
 3. Veillonella<br>
 ---
 ```bash
+git init
+git add ProjectFolderName
+git commit -m "first commit"
+git remote add origin https://github.com/YourGithubUsername/RepositoryName.git
+git push -u origin master
+
 git pull -f origin main
 #
 git add .
