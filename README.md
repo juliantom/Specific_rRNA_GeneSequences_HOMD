@@ -1,16 +1,24 @@
 # Retrieving taxon-specific rRNA gene sequences from HOMD
-### 
+### Instructions
+The recommendation is to clone the repository and use the scripts with minimal modification.
+```bash
+git clone https://github.com/juliantom/Specific_rRNA_GeneSequences_HOMD.git
+```
+
 ### Necessary data from HOMD and target taxa
 ---
-Data obtained from HOMD (https://www.homd.org/ftp/16S_rRNA_refseq/HOMD_16S_rRNA_RefSeq/current/) on 02/16/2023:
-1. seqid_info.txt (09-Feb-2021 20:49)
-2. HOMD_16S_rRNA_RefSeq_V15.22.fasta (09-Feb-2021 20:49)<br>
+Files obtained from HOMD (https://www.homd.org/ftp/16S_rRNA_refseq/HOMD_16S_rRNA_RefSeq/current/) on 02/16/2023:
+- seqid_info.txt (09-Feb-2021 20:49)
+- HOMD_16S_rRNA_RefSeq_V15.22.fasta (09-Feb-2021 20:49)<br>
 
 Taxa of interest:<br>
 1. Lachnospiraceae
 2. Leptotrichia
 3. Veillonella<br>
 ---
+### Scripts
+Two scripts (99-Scripts folder)  allow extracting 16S rRNA genes (fasta) using list of taxa in arrays. The scripts are written in bash and should be able to run in Linux and Unix based systems including Mac OS.
+
 ```bash
 # Create repository and link
 git init
