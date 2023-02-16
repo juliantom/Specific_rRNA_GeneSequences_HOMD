@@ -1,6 +1,6 @@
-# Retrieving specific rRNA gene-sequences from HOMD
-## Taxon specific rRNA gene sequences
-### This project contains 16S rRNA gene sequences for specific human oral taxa obtained from HOMD.
+# Retrieving taxon-specific rRNA gene sequences from HOMD
+### 
+### Necessary data from HOMD and target taxa
 ---
 Data obtained from HOMD on 02/16/2023:
 1. seqid_info.txt (09-Feb-2021 20:49)
