@@ -1,4 +1,4 @@
-# Specific_rRNA_GeneSequences_HOMD
+# Retrieving specific rRNA gene-sequences from HOMD
 ## Taxon specific rRNA gene sequences
 ### This project contains 16S rRNA gene sequences for specific human oral taxa obtained from HOMD.
 ---
