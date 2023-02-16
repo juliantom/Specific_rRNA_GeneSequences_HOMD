@@ -27,5 +27,9 @@ git init
 git add .
 git commit -m "Folder name"/"File name"
 git push -u origin main
+# remove files
+git rm hello.txt
+git commit -m "Deleted the file from the git repository"
+git push --set-upstream origin main
 ```
 
