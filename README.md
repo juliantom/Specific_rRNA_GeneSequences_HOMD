@@ -6,9 +6,7 @@ Data obtained from HOMD on 02/16/2023:
 1. seqid_info.txt (09-Feb-2021 20:49)
 2. HOMD_16S_rRNA_RefSeq_V15.22.fasta (09-Feb-2021 20:49)<br>
 
-dddddd <br>
-
-Data for 3 taxa can be found in individual folders:
+Taxa of interest:<br>
 1. Lachnospiraceae
 2. Leptotrichia
 3. Veillonella<br>
@@ -25,7 +23,9 @@ git pull -f origin main
 # add files inside folder
 git init
 git add .
+git add "Folder name"/"File name"
 git commit -m "Folder name"/"File name"
+git commit -m "Add run" 99-Scripts/01-Download_files-HOMD.sh
 git push -u origin main
 # remove files
 git rm hello.txt
