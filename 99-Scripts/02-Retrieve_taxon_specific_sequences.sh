@@ -3,7 +3,7 @@
 
 #workDir=$1
 pathWorkDir=$( dirname $PWD)
-dir_main=$pathWorkDir/myOralRibosomalGenes
+dir_main=$( basename "$PWD" )
 
 # folder for original files from HOMD
 dir_DB=HOMD_16S_DB/${myDate}-HOMD-16S_DB
