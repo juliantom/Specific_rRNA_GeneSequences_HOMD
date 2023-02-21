@@ -2,12 +2,8 @@
 # Run
 
 #workDir=$1
-mkdir HOMD_16S_DB
-
-if [ -d "HOMD_16S_DB" ] 
+if [ ! -d "HOMD_16S_DB" ]
 then
-    continue
-else
     echo "Creating directory: $PWD/HOMD_16S_DB"
     mkdir HOMD_16S_DB
 fi
@@ -18,7 +14,9 @@ dir_DB=HOMD_16S_DB/${myDate}-HOMD-16S_DB
 
 if [ -d "$dir_DB" ] 
 then
-    echo "Directory $PWD/$dir_DB exists." 
+    echo "Directory exists."
+    echo "Nothing NEW to download." 
+    echo "Path to folder: $PWD/$dir_DB" 
     exit 9999 # die with error code 9999
 else
     mkdir $dir_DB
