@@ -4,9 +4,11 @@
 #workDir=$1
 mkdir HOMD_16S_DB
 
-if [ ! -d "HOMD_16S_DB" ] 
+if [ -d "HOMD_16S_DB" ] 
 then
-    echo "Creating directory $PWD/HOMD_16S_DB."
+    continue
+else
+    echo "Creating directory: $PWD/HOMD_16S_DB"
     mkdir HOMD_16S_DB
 fi
 
@@ -32,4 +34,5 @@ else
     myDate=$( date '+%Y_%m_%d' )
 
     mv $dir_DB/HOMD_16S_rRNA_RefSeq_V15.22.fasta $dir_DB/HOMD_16S_rRNA_RefSeq_V15.22-$myDate.fasta
+    cp $dir_DB/HOMD_16S_rRNA_RefSeq_V15.22-$myDate.fasta HOMD_16S_DB/HOMD_16S_rRNA_RefSeq-latest.fasta
 fi
