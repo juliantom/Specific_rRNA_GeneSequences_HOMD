@@ -15,8 +15,13 @@ cd Specific_rRNA_GeneSequences_HOMD
 # Make scripts executable
 chmod +x 99-Scripts/*.sh
 
-# Download database
+# Download database 
 ./99-Scripts/01-Download_files-HOMD.sh
+
+# Download database 
+./99-Scripts/02-Retrieve_taxon_specific_sequences.sh
+
+# 
 
 ```
 ---
