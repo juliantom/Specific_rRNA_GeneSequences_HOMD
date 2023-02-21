@@ -2,7 +2,8 @@
 # Run
 
 #workDir=$1
-workDir=2023-Tongue_16S_rRNA
+myDate=$( date '+%Y_%m_%d' )
+workDir=${myDate}-16S_rRNA-HOMD
 
 # folder for original files from HOMD
 dirOriginal=$workDir/01-Original_data
