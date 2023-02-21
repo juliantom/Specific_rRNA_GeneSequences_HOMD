@@ -8,6 +8,16 @@ mkdir myOralRibosomalGenes && cd myOralRibosomalGenes
 
 # Clone the repository
 git clone https://github.com/juliantom/Specific_rRNA_GeneSequences_HOMD.git
+
+# Change to folder 
+cd Specific_rRNA_GeneSequences_HOMD
+
+# Make scripts executable
+chmod +x 99-Scripts/*.sh
+
+# Download database
+./99-Scripts/01-Download_files-HOMD.sh
+
 ```
 ---
 ### Scripts
