@@ -2,7 +2,7 @@
 # Run
 
 #workDir=$1
-workDir=2023-Tongue_16S_rRNA
+workDir=myOralRibosomalGenes
 # folder for original files from HOMD
 dirOriginal=$workDir/01-Original_data
 fileSeqID=$dirOriginal/HOMD_16S_rRNA_RefSeq_V15.22-2023_02_16.fasta
