@@ -2,8 +2,11 @@
 # Run
 
 #workDir=$1
-workDir=myOralRibosomalGenes
+pathWorkDir=$( dirname $PWD)
+dir_main=$pathWorkDir/myOralRibosomalGenes
+
 # folder for original files from HOMD
+dir_DB=HOMD_16S_DB/${myDate}-HOMD-16S_DB
 dirOriginal=$workDir/01-Original_data
 fileSeqID=$dirOriginal/HOMD_16S_rRNA_RefSeq_V15.22-2023_02_16.fasta
 dirTaxaFasta=$workDir/02-Taxa_fasta
