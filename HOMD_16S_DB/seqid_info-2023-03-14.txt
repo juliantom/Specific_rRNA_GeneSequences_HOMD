@@ -1,0 +1,1016 @@
+Refseq_ID	HMT-ID	Species	Strain	Genbank/PROKKA-ID	Satus	Prefer-habitat
+81531021	HMT-815	Methanobrevibacter oralis	Strain: DSM 7256	PROKKA: SEQF3102_01675	Named	Oral
+81526711	HMT-815	Methanobrevibacter oralis	Strain: JMR01	PROKKA: SEQF2671_02310	Named	Oral
+81531031	HMT-815	Methanobrevibacter oralis	Strain: M2 CSUR P5920	PROKKA: SEQF3103_01149	Named	Oral
+875_CN01	HMT-875	Absconditabacteria (SR1) [G-1] (SR1) [G-1] bacterium HMT 875	Clone: CN01	GB: JX294356	Phylotype	Oral
+345_X112	HMT-345	Absconditabacteria (SR1) [G-1] (SR1) [G-1] bacterium HMT 345	Clone: _X112	GB: AF125207	Phylotype	Oral
+874_4Y03	HMT-874	Absconditabacteria (SR1) [G-1] (SR1) [G-1] bacterium HMT 874	Clone: 4Y03	GB: JX294355	Phylotype	Oral
+873_4Q04	HMT-873	Gracilibacteria (GN02) [G-2] (GN02) [G-2] bacterium HMT 873	Clone: 4Q04	GB: JX294354	Phylotype	Oral
+99627241	HMT-996	Gracilibacteria (GN02) [G-3] (GN02) [G-3] bacterium HMT 996	Strain: JGI 0000069-P22	PROKKA: SEQF2724_00347	NonOralRef	NonOralRef
+871_4L02	HMT-871	Gracilibacteria (GN02) [G-1] (GN02) [G-1] bacterium HMT 871	Clone: 4L02	GB: JX294352	Phylotype	Oral
+872_CN02	HMT-872	Gracilibacteria (GN02) [G-1] (GN02) [G-1] bacterium HMT 872	Clone: CN02	GB: JX294353	Phylotype	Oral
+812_8157	HMT-812	Helicobacter pylori	Strain: ATCC 43504	GB: M88157	Named	Unassigned
+842_4321	HMT-842	Campylobacter ureolyticus	Strain: ATCC 33387	GB: L04321	Named	Unassigned
+776_2768	HMT-776	Campylobacter sputorum	Strain: BU-112B	GB: AF022768	Named	Unassigned
+044BB120	HMT-044	Campylobacter sp. HMT 044	Clone: BB120	GB: AY005038	Phylotype	Oral
+623_4320	HMT-623	Campylobacter gracilis	Strain: ATCC 33236	GB: L04320	Named	Oral
+575_6977	HMT-575	Campylobacter concisus	Strain: FDC 288	GB: L06977	Named	Oral
+580_C10	HMT-580	Campylobacter curvus	Strain: Goto C10	GB: tbd	Named	Oral
+580_4313	HMT-580	Campylobacter curvus	Strain: ATCC 35224	GB: L04313	Named	Oral
+763_6974	HMT-763	Campylobacter showae	Strain: CCUG 3054	GB: L06974	Named	Oral
+748_4317	HMT-748	Campylobacter rectus	Strain: ATCC 33238	GB: L04317	Named	Oral
+748_6973	HMT-748	Campylobacter rectus	Strain: CCUG 19168	GB: L06973	Named	Oral
+356_1416	HMT-356	Saccharibacteria (TM7) [G-5] (TM7) [G-5] bacterium HMT 356	Clone: P4PB_40	GB: AY331416	Phylotype	Oral
+356_I025	HMT-356	Saccharibacteria (TM7) [G-5] (TM7) [G-5] bacterium HMT 356	Clone: _I025	GB: AF125206	Phylotype	Oral
+870_4W45	HMT-870	Saccharibacteria (TM7) [G-6] (TM7) [G-6] bacterium HMT 870	Clone: 4W45	GB: KM018322	Phylotype	Oral
+355_F061	HMT-355	Saccharibacteria (TM7) [G-4] (TM7) [G-4] bacterium HMT 355	Clone: _F061	GB: AF125205	Phylotype	Oral
+351CW040	HMT-351	Saccharibacteria (TM7) [G-3] (TM7) [G-3] bacterium HMT 351	Clone: CW040	GB: AF385506	Phylotype	Oral
+350BU080	HMT-350	Saccharibacteria (TM7) [G-2] (TM7) [G-2] bacterium HMT 350	Clone: BU080	GB: AF385568	Phylotype	Oral
+347BE109	HMT-347	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 347	Clone: BE109	GB: AY005446	Phylotype	Oral
+98727221	HMT-987	Saccharibacteria (TM7) [G-7] (TM7) [G-7] bacterium HMT 987	Strain: GTL1	PROKKA: SEQF2722_00264	NonOralRef	NonOralRef
+954_9972	HMT-954	Saccharibacteria (TM7) [G-7] (TM7) [G-7] bacterium HMT 954	Clone: ncd263e08c1	GB: JF229972	Phylotype	Oral
+98627231	HMT-986	Saccharibacteria (TM7) [G-7] (TM7) [G-7] bacterium HMT 986	Strain: JGI 0001002-L20	PROKKA: SEQF2723_00238	NonOralRef	NonOralRef
+98927371	HMT-989	Saccharibacteria (TM7) [G-7] (TM7) [G-7] bacterium HMT 989	Strain: RAAC3_TM7_1	PROKKA: SEQF2737_00500	NonOralRef	NonOralRef
+955PM004	HMT-955	Saccharibacteria (TM7) [G-8] (TM7) [G-8] bacterium HMT 955	Strain: PM004	GB: tbd	Unnamed	Oral
+98827211	HMT-988	Candidatus Saccharimonas Saccharimonas aalborgensis	Strain: 	PROKKA: SEQF2721_00729	NonOralRef	NonOralRef
+349BS003	HMT-349	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 349	Clone: BS003	GB: AY005448	Phylotype	Oral
+869_4W02	HMT-869	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 869	Clone: 4W02	GB: KM018321	Phylotype	Oral
+346AH040	HMT-346	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 346	Clone: AH040	GB: AF125204	Phylotype	Oral
+348BN036	HMT-348	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 348	Clone: BN036	GB: GQ422738	Phylotype	Oral
+352DR034	HMT-352	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 352	Clone: DR034	GB: AF385520	Phylotype	Oral
+95731001	HMT-957	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 957	Strain: BB001	PROKKA: SEQF3100_00133	Unnamed	Oral
+952-TM7x	HMT-952	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 952	Strain: TM7x	GB: tbd	Unnamed	Oral
+488HD027	HMT-488	Saccharibacteria (TM7) [G-1] (TM7) [G-1] bacterium HMT 488	Clone: HD027	GB: AY349415	Phylotype	Oral
+98427181	HMT-984	Chlorobium limicola	Strain: DSM 245	PROKKA: SEQF2718_00110	NonOralRef	NonOralRef
+98427182	HMT-984	Chlorobium limicola	Strain: DSM 245	PROKKA: SEQF2718_00152	NonOralRef	NonOralRef
+98227191	HMT-982	Ignavibacterium album	Strain: JCM 16511	PROKKA: SEQF2719_00714	NonOralRef	NonOralRef
+98327201	HMT-983	Melioribacter roseus	Strain: P3M-2	PROKKA: SEQF2720_01862	NonOralRef	NonOralRef
+320AZ105	HMT-320	Flavitalea sp. HMT 320	Clone: AZ105	GB: AF385548	Phylotype	Unassigned
+261N123A	HMT-261	Segetibacter aerophilus	Strain: NBRC 106135	GB: NR_114296	Named	Unassigned
+261N123B	HMT-261	Segetibacter aerophilus	Strain: ncd790f01c1	GB: HM296397	Named	Unassigned
+318AV100	HMT-318	Pedobacter sp. HMT 318	Clone: AV100	GB: AF385531	Phylotype	Unassigned
+321AZ123	HMT-321	Pedobacter sp. HMT 321	Clone: AZ123	GB: AF385549	Phylotype	Unassigned
+933_3217	HMT-933	Pedobacter sp. HMT 933	Clone: nbu291f04c1	GB: GQ023217	Phylotype	Unassigned
+422_0564	HMT-422	Bergeyella sp. HMT 422	Clone: ncd369e02c1	GB: HM320564	Phylotype	Unassigned
+422_8614	HMT-422	Bergeyella sp. HMT 422	Clone: C4MKM119	GB: AY278614	Phylotype	Unassigned
+319AY017	HMT-319	Bergeyella sp. HMT 319	Clone: AY017	GB: AF385544	Phylotype	Unassigned
+931_7552	HMT-931	Bergeyella sp. HMT 931	Clone: 069063_075	GB: JQ447552	Phylotype	Oral
+206N109B	HMT-206	Bergeyella sp. HMT 206	Clone: 3P2-77	GB: EF419382	Phylotype	Unassigned
+322AK152	HMT-322	Bergeyella sp. HMT 322	Clone: AK152	GB: AY008691	Phylotype	Oral
+900-Wade	HMT-900	Bergeyella sp. HMT 900	Clone: HS1_1W_C3	GB: KC203058	Phylotype	Oral
+907-Wade	HMT-907	Bergeyella sp. HMT 907	Clone: BL190	GB: JQ406533	Phylotype	Oral
+338Capn8	HMT-338	Capnocytophaga sp. HMT 338	Strain: FDC 8	GB: U41352	Unnamed	Oral
+863F0517	HMT-863	Capnocytophaga sp. HMT 863	Strain: F0517	GB: tbd	Unnamed	Oral
+325_1347	HMT-325	Capnocytophaga granulosa	Strain: LMG 16022	GB: U41347	Named	Oral
+325AH015	HMT-325	Capnocytophaga granulosa	Clone: AH015	GB: AY005074	Named	Oral
+337-S3	HMT-337	Capnocytophaga gingivalis	Strain: S3	GB: AY005073	Named	Oral
+337_7608	HMT-337	Capnocytophaga gingivalis	Strain: ATCC 33624	GB: X67608	Named	Oral
+627_1748	HMT-627	Capnocytophaga haemolytica	Clone: 069086_014	GB: JQ451748	Named	Oral
+627_1349	HMT-627	Capnocytophaga haemolytica	Strain: JCM 8565	GB: U41349	Named	Oral
+332DS022	HMT-332	Capnocytophaga sp. HMT 332	Clone: DS022	GB: AF366270	Unnamed	Oral
+901-Wade	HMT-901	Capnocytophaga sp. HMT 901	Clone: BL218	GB: JQ406535	Phylotype	Unassigned
+775_4920	HMT-775	Capnocytophaga sputigena	Clone: 071064_219	GB: JQ474920	Named	Oral
+775_7609	HMT-775	Capnocytophaga sputigena	Strain: ATCC 33612	GB: X67609	Named	Oral
+329BM058	HMT-329	Capnocytophaga leadbetteri	Clone: BM058	GB: AY005075	Named	Oral
+329BU084	HMT-329	Capnocytophaga leadbetteri	Clone: BU084	GB: AF385569	Named	Oral
+329BR085	HMT-329	Capnocytophaga leadbetteri	Clone: BR085	GB: GU350453	Named	Oral
+878F0545	HMT-878	Capnocytophaga sp. HMT 878	Strain: F0545	GB: tbd	Unnamed	Oral
+326F0382	HMT-326	Capnocytophaga sp. HMT 326	Strain: F0382	GB: tbd	Unnamed	Oral
+380F0488	HMT-380	Capnocytophaga sp. HMT 380	Strain: F0488	GB: tbd	Unnamed	Oral
+903-Wade	HMT-903	Capnocytophaga sp. HMT 903	Clone: HS5_2W_I24	GB: KC203061	Phylotype	Oral
+700_4635	HMT-700	Capnocytophaga ochracea	Strain: ATCC 33596	GB: L14635	Named	Oral
+324AA032	HMT-324	Capnocytophaga sp. HMT 324	Clone: AA032	GB: AY005079	Unnamed	Oral
+336F0502	HMT-336	Capnocytophaga sp. HMT 336	Strain: F0502	GB: tbd	Unnamed	Oral
+336_2363	HMT-336	Capnocytophaga sp. HMT 336	Clone: 070035_613	GB: JQ462363	Unnamed	Oral
+336_X089	HMT-336	Capnocytophaga sp. HMT 336	Clone: _X089	GB: AY005080	Unnamed	Oral
+902-Wade	HMT-902	Capnocytophaga sp. HMT 902	Clone: FL163	GB: JQ406542	Phylotype	Oral
+864F0512	HMT-864	Capnocytophaga sp. HMT 864	Strain: F0512	GB: tbd	Unnamed	Oral
+864_1335	HMT-864	Capnocytophaga sp. HMT 864	Clone: GEJ8	GB: GU561335	Unnamed	Oral
+335_4775	HMT-335	Capnocytophaga sp. HMT 335	Clone: 069096_232	GB: JQ454775	Unnamed	Oral
+335_X066	HMT-335	Capnocytophaga sp. HMT 335	Clone: _X066	GB: AY005078	Unnamed	Oral
+334EL043	HMT-334	Capnocytophaga sp. HMT 334	Clone: EL043	GB: AY008312	Phylotype	Unassigned
+412F0487	HMT-412	Capnocytophaga sp. HMT 412	Strain: F0487	GB: tbd	Unnamed	Oral
+412_8613	HMT-412	Capnocytophaga sp. HMT 412	Clone: C2MKM106	GB: AY278613	Unnamed	Oral
+323_2733	HMT-323	Capnocytophaga sp. HMT 323	Clone: 071057_454	GB: JQ472733	Unnamed	Oral
+516_3623	HMT-516	Bacteroidetes [G-6] [G-6] bacterium HMT 516	Clone: MB3_P19	GB: DQ003623	Phylotype	Oral
+509_3619	HMT-509	Bacteroidetes [G-4] [G-4] bacterium HMT 509	Clone: MB2_P04	GB: DQ003619	Phylotype	Unassigned
+507_3617	HMT-507	Bacteroidetes [G-5] [G-5] bacterium HMT 507	Clone: MB2_G17	GB: DQ003617	Phylotype	Oral
+505_3615	HMT-505	Bacteroidetes [G-5] [G-5] bacterium HMT 505	Clone: MB1_G34	GB: DQ003615	Phylotype	Oral
+511_3634	HMT-511	Bacteroidetes [G-5] [G-5] bacterium HMT 511	Clone: MB3_C19	GB: DQ003634	Phylotype	Oral
+503_3613	HMT-503	Bacteroidetes [G-3] [G-3] bacterium HMT 503	Clone: MB1_G13	GB: DQ003613	Phylotype	Oral
+899-Wade	HMT-899	Bacteroidetes [G-3] [G-3] bacterium HMT 899	Clone: BL234	GB: JQ406536	Phylotype	Unassigned
+280DA064	HMT-280	Bacteroidetes [G-3] [G-3] bacterium HMT 280	Clone: DA064	GB: AY005071	Phylotype	Oral
+436_1819	HMT-436	Bacteroidetes [G-3] [G-3] bacterium HMT 436	Clone: P4PB_6	GB: AY341819	Phylotype	Unassigned
+365_7777	HMT-365	Bacteroidetes [G-3] [G-3] bacterium HMT 365	Clone: 071074_079	GB: JQ477777	Phylotype	Oral
+365_3626	HMT-365	Bacteroidetes [G-3] [G-3] bacterium HMT 365	Clone: MB4_G15	GB: DQ003626	Phylotype	Oral
+281DA065	HMT-281	Bacteroidetes [G-3] [G-3] bacterium HMT 281	Clone: DA065	GB: AY005070	Phylotype	Oral
+911-Wade	HMT-911	Bacteroidetes [G-7] [G-7] bacterium HMT 911	Clone: DL325	GB: JQ406540	Phylotype	Unassigned
+274_8173	HMT-274	Bacteroidales [G-2] [G-2] bacterium HMT 274	Clone: 071040_120	GB: JQ468173	Unnamed	Oral
+274AU126	HMT-274	Bacteroidales [G-2] [G-2] bacterium HMT 274	Clone: AU126	GB: AY005072	Unnamed	Oral
+613_6495	HMT-613	Tannerella forsythia	Strain: FDC 338	GB: L16495	Named	Oral
+286BU063	HMT-286	Tannerella sp. HMT 286	Clone: BU063	GB: AY008308	Unnamed	Oral
+916-Wade	HMT-916	Tannerella sp. HMT 916	Clone: CP6_C2	GB: KC203065	Phylotype	Oral
+808BU045	HMT-808	Tannerella sp. HMT 808	Clone: BU045	GB: AF385565	Phylotype	Oral
+619_3964	HMT-619	Porphyromonas gingivalis	Strain: DSM 20709	GB: X73964	Named	Oral
+547_6490	HMT-547	Porphyromonas asaccharolytica	Strain: ATCC 25260	GB: L16490	Named	Unassigned
+785F0120	HMT-785	Porphyromonas uenonis	Strain: F0120	GB: GQ422746	Named	Unassigned
+785_3091	HMT-785	Porphyromonas uenonis	Strain: JCM 13868	GB: NR_113091	Named	Unassigned
+285_F016	HMT-285	Porphyromonas sp. HMT 285	Clone: _F016	GB: AY005069	Phylotype	Oral
+273_6491	HMT-273	Porphyromonas endodontalis	Strain: ATCC 35406	GB: L16491	Named	Oral
+273AJ002	HMT-273	Porphyromonas endodontalis	Clone: AJ002	GB: AY005067	Named	Oral
+273_7054	HMT-273	Porphyromonas endodontalis	Clone: P2PB_52	GB: AY207054	Named	Oral
+273BB134	HMT-273	Porphyromonas endodontalis	Clone: BB134	GB: AY005068	Named	Oral
+930_8499	HMT-930	Porphyromonas sp. HMT 930	Clone: 071041_260	GB: JQ468499	Phylotype	Oral
+279F450b	HMT-279	Porphyromonas pasteri	Strain: F0450b	GB: tbd	Named	Oral
+279F450a	HMT-279	Porphyromonas pasteri	Strain: F0450a	GB: tbd	Named	Oral
+279DP023	HMT-279	Porphyromonas pasteri	Clone: DP023	GB: AF385516	Named	Oral
+279CW034	HMT-279	Porphyromonas pasteri	Clone: CW034	GB: AY008310	Named	Oral
+279F450c	HMT-279	Porphyromonas pasteri	Strain: F0450c	GB: tbd	Named	Oral
+279F450d	HMT-279	Porphyromonas pasteri	Strain: F0450d	GB: tbd	Named	Oral
+278BS045	HMT-278	Porphyromonas sp. HMT 278	Clone: BS045	GB: AF385560	Unnamed	Oral
+275AW032	HMT-275	Porphyromonas sp. HMT 275	Clone: AW032	GB: AF393476	Phylotype	Oral
+277BR037	HMT-277	Porphyromonas sp. HMT 277	Clone: BR037	GB: AF385555	Phylotype	Oral
+284EP003	HMT-284	Porphyromonas sp. HMT 284	Clone: EP003	GB: AY008313	Lost	Oral
+283DS033	HMT-283	Porphyromonas catoniae	Clone: DS033	GB: AF366271	Named	Oral
+283_2823	HMT-283	Porphyromonas catoniae	Strain: ATCC 51270	GB: X82823	Named	Oral
+272_X083	HMT-272	Bacteroidaceae [G-1] [G-1] bacterium HMT 272	Clone: _X083	GB: AY005066	Unnamed	Oral
+787F0041	HMT-787	Bacteroides pyogenes	Strain: F0041	GB: GQ422748	Named	Unassigned
+465_6488	HMT-465	Bacteroides zoogleoformans	Strain: ATCC 33285	GB: L16488	Named	Unassigned
+630_6487	HMT-630	Bacteroides heparinolyticus	Strain: ATCC 35895	GB: L16487	Named	Unassigned
+630F0110	HMT-630	Bacteroides heparinolyticus	Strain: F0110	GB: GQ422742	Named	Unassigned
+466_3406	HMT-466	Alloprevotella tannerae	Strain: 93-1-2	GB: AF183406	Named	Oral
+466_5634	HMT-466	Alloprevotella tannerae	Strain: ATCC 51259	GB: AJ005634	Named	Oral
+302F0020	HMT-302	Alloprevotella rava	Strain: F0020	GB: GQ422736	Named	Oral
+302_9190	HMT-302	Alloprevotella rava	Strain: W6968	GB: JQ039190	Named	Oral
+912-Wade	HMT-912	Alloprevotella sp. HMT 912	Clone: BL176	GB: JQ406532	Phylotype	Oral
+912Wade2	HMT-912	Alloprevotella sp. HMT 912	Clone: HS3_1W_C6	GB: KC203063	Phylotype	Oral
+913_9172	HMT-913	Alloprevotella sp. HMT 913	Clone: P3D1-597	GB: EF509172	Phylotype	Oral
+473HF050	HMT-473	Alloprevotella sp. HMT 473	Clone: HF050	GB: AY349399	Unnamed	Oral
+473IK062	HMT-473	Alloprevotella sp. HMT 473	Clone: IK062	GB: AY349402	Unnamed	Oral
+308DO039	HMT-308	Alloprevotella sp. HMT 308	Clone: DO039	GB: AF385513	Phylotype	Oral
+914_7808	HMT-914	Alloprevotella sp. HMT 914	Clone: ncd78e11c1	GB: HM247808	Phylotype	Oral
+304DA058	HMT-304	Prevotella sp. HMT 304	Clone: DA058	GB: AY005065	Phylotype	Oral
+378_1228	HMT-378	Prevotella micans	Strain: E7_56	GB: AF481228	Named	Oral
+299BI027	HMT-299	Prevotella nanceiensis	Clone: BI027	GB: AY005064	Named	Oral
+942_6378	HMT-942	Prevotella sp. HMT 942	Clone: 22B412	GB: FJ976378	Phylotype	Oral
+562_6476	HMT-562	Prevotella buccalis	Strain: ATCC 35310	GB: L16476	Named	Unassigned
+301BS041	HMT-301	Prevotella sp. HMT 301	Clone: BS041	GB: AF385558	Phylotype	Oral
+705_3522	HMT-705	Prevotella oralis	Strain: ATCC 33269	GB: AY323522	Named	Oral
+705_5176	HMT-705	Prevotella oralis	Clone: ELU0173-000438	GB: HQ815176	Named	Oral
+665_1227	HMT-665	Prevotella marshii	Strain: E9_34	GB: AF481227	Named	Oral
+781_3320	HMT-781	Prevotella saccharolytica	Strain: JCM 17484	GB: NR_113320	Named	Oral
+781F0055	HMT-781	Prevotella saccharolytica	Strain: F0055	GB: GQ422744	Named	Oral
+475_7238	HMT-475	Prevotella sp. HMT 475	Clone: ncd2221f05c1	GB: JF187238	Unnamed	Oral
+475IK053	HMT-475	Prevotella sp. HMT 475	Clone: IK053	GB: AY349401	Unnamed	Oral
+795_8825	HMT-795	Prevotella shahii	Strain: JCM 12083	GB: AB108825	Named	Oral
+317_5061	HMT-317	Prevotella sp. HMT 317	Strain: B31FD	GB: AY005061	Unnamed	Oral
+317_8624	HMT-317	Prevotella sp. HMT 317	Clone: C3MKM081	GB: AY278624	Unnamed	Oral
+472_2261	HMT-472	Prevotella sp. HMT 472	Clone: 070034_820	GB: JQ462261	Unnamed	Oral
+658_6481	HMT-658	Prevotella loescheii	Strain: ATCC 15930	GB: L16481	Named	Oral
+472GU027	HMT-472	Prevotella sp. HMT 472	Clone: GU027	GB: AY349398	Unnamed	Oral
+303_9992	HMT-303	Prevotella pleuritidis	Clone: 102D01	GB: AM419992	Named	Oral
+600_5635	HMT-600	Prevotella enoeca	Strain: ATCC 51261	GB: AJ005635	Named	Oral
+443_1415	HMT-443	Prevotella sp. HMT 443	Clone: P4PB_24	GB: AY331415	Phylotype	Oral
+820_7212	HMT-820	Prevotella sp. HMT 820	Strain: P2A_FAAD4	GB: AF537212	Unnamed	Oral
+526_3633	HMT-526	Prevotella sp. HMT 526	Clone: P4P_53	GB: AY944134	Phylotype	Oral
+526_4134	HMT-526	Prevotella sp. HMT 526	Clone: MB7_G16	GB: DQ003633	Phylotype	Oral
+560_6478	HMT-560	Prevotella buccae	Strain: ATCC 33690	GB: L16478	Named	Oral
+553_2605	HMT-553	Prevotella baroniae	Clone: PUS9.180	GB: AJ012605	Named	Oral
+583_1876	HMT-583	Prevotella dentalis	Strain: DSM 3688	GB: X81876	Named	Oral
+315_8210	HMT-315	Prevotella sp. HMT 315	Clone: 071040_151	GB: JQ468210	Phylotype	Oral
+315FW035	HMT-315	Prevotella sp. HMT 315	Clone: FW035	GB: AY349394	Phylotype	Oral
+376_1226	HMT-376	Prevotella sp. HMT 376	Strain: E7_34	GB: AF481226	Unnamed	Oral
+515_3622	HMT-515	Prevotella sp. HMT 515	Clone: MB3_P13	GB: DQ003622	Phylotype	Oral
+556_6475	HMT-556	Prevotella bivia	Strain: ATCC 29303	GB: L16475	Named	Oral
+794_0414	HMT-794	Prevotella multisaccharivorax	Strain: JCM 12954	GB: AB200414	Named	Unassigned
+293AO009	HMT-293	Prevotella sp. HMT 293	Clone: AO009	GB: AY005059	Phylotype	Oral
+305_0424	HMT-305	Prevotella sp. HMT 305	Clone: 070055_034	GB: JQ460424	Phylotype	Oral
+305DO014	HMT-305	Prevotella sp. HMT 305	Clone: DO014	GB: AF385509	Phylotype	Oral
+300_8625	HMT-300	Prevotella sp. HMT 300	Clone: C3MLM058	GB: AY278625	Phylotype	Oral
+300BR014	HMT-300	Prevotella sp. HMT 300	Clone: BR014	GB: AF385554	Phylotype	Oral
+300_0563	HMT-300	Prevotella sp. HMT 300	Clone: ncd2142e01c1	GB: JF180563	Phylotype	Oral
+292AH125	HMT-292	Prevotella sp. HMT 292	Clone: AH125	GB: AY005060	Phylotype	Oral
+292AU120	HMT-292	Prevotella sp. HMT 292	Clone: AU120	GB: GQ422735	Phylotype	Oral
+309_6203	HMT-309	Prevotella sp. HMT 309	Clone: 3083	GB: FJ976203	Phylotype	Oral
+309DO045	HMT-309	Prevotella sp. HMT 309	Clone: DO045	GB: AF385515	Phylotype	Oral
+288_6472	HMT-288	Prevotella oulorum	Strain: ATCC 43324	GB: L16472	Named	Oral
+288F0390	HMT-288	Prevotella oulorum	Strain: F0390	GB: tbd	Named	Oral
+307_8826	HMT-307	Prevotella salivae	Strain: DSM 15606	GB: AB108826	Named	Oral
+311_F045	HMT-311	Prevotella oris	Clone: _F045	GB: AY005056	Named	Oral
+311_6474	HMT-311	Prevotella oris	Strain: ATCC 33573	GB: L16474	Named	Oral
+289AA016	HMT-289	Prevotella maculosa	Clone: AA016	GB: AY005058	Named	Oral
+289AA020	HMT-289	Prevotella maculosa	Clone: AA020	GB: AY005057	Named	Oral
+289_4315	HMT-289	Prevotella maculosa	Strain: W1609	GB: EF534315	Named	Oral
+396_7050	HMT-396	Prevotella sp. HMT 396	Clone: P4PB_83	GB: AY207050	Phylotype	Oral
+693_3963	HMT-693	Prevotella nigrescens	Strain: NCTC 9336	GB: X73963	Named	Oral
+693F0103	HMT-693	Prevotella nigrescens	Strain: F0103	GB: GU470890	Named	Oral
+714_3121	HMT-714	Prevotella pallens	Strain: JCM 11140	GB: NR_113121	Named	Oral
+943_2878	HMT-943	Prevotella aurantiaca	Strain: OMA31	GB: NR_112878	Named	Oral
+643_2907	HMT-643	Prevotella intermedia	Strain: 17	GB: NR_102907	Named	Oral
+643_3106	HMT-643	Prevotella intermedia	Strain: JCM 12248	GB: NR_113106	Named	Oral
+314FU048	HMT-314	Prevotella sp. HMT 314	Clone: FU048	GB: AY349393	Unnamed	Oral
+313FM005	HMT-313	Prevotella sp. HMT 313	Clone: FM005	GB: AF432133	Unnamed	Oral
+313_9254	HMT-313	Prevotella sp. HMT 313	Clone: 069104_177	GB: JQ449254	Unnamed	Oral
+298BE073	HMT-298	Prevotella histicola	Clone: BE073	GB: AF385551	Named	Oral
+306DO027	HMT-306	Prevotella sp. HMT 306	Clone: DO027	GB: AF385511	Unnamed	Oral
+572_6473	HMT-572	Prevotella veroralis	Strain: ATCC 33779	GB: L16473	Named	Oral
+572_4079	HMT-572	Prevotella veroralis	Clone: 071062_262	GB: JQ474079	Named	Oral
+572_3124	HMT-572	Prevotella veroralis	Strain: JCM 6290	GB: NR_113124	Named	Oral
+469_3525	HMT-469	Prevotella melaninogenica	Strain: ATCC 25845	GB: AY323525	Named	Oral
+885_3253	HMT-885	Prevotella scopos	Strain: JCM 17725	GB: AB683253	Named	Oral
+782_4304	HMT-782	Prevotella fusca	Strain: JCM 17724	GB: NR_114304	Named	Oral
+782F0012	HMT-782	Prevotella fusca	Strain: F0012	GB: GQ422745	Named	Oral
+685_2483	HMT-685	Prevotella multiformis	Strain: PPPA21	GB: AB182483	Named	Oral
+291AO036	HMT-291	Prevotella denticola	Clone: AO036	GB: AY005054	Named	Oral
+291AH005	HMT-291	Prevotella denticola	Clone: AH005	GB: AY005053	Named	Oral
+291_3524	HMT-291	Prevotella denticola	Strain: ATCC 35308	GB: AY323524	Named	Oral
+039CA006	HMT-039	Bdellovibrio sp. HMT 039	Clone: CA006	GB: AF385539	Phylotype	Unassigned
+041_R004	HMT-041	Desulfobulbus sp. HMT 041	Clone: _R004	GB: AY005037	Phylotype	Oral
+703_1623	HMT-703	Desulfomicrobium orale	Strain: DSM 12838	GB: AJ251623	Named	Oral
+040BB161	HMT-040	Desulfovibrio sp. HMT 040	Clone: BB161	GB: AY005035	Phylotype	Unassigned
+605_1630	HMT-605	Desulfovibrio fairfieldensis	Strain: DSM 12803	GB: AJ251630	Named	Unassigned
+196N049A	HMT-196	Enhydrobacter aerosaccus	Strain: PAGU 1624	GB: NR_113385	Named	Unassigned
+244N120A	HMT-244	Roseomonas gilardii	Strain: 5424	GB: NR_029061	Named	Unassigned
+245N121A	HMT-245	Roseomonas mucosa	Strain: MDA5527	GB: NR_028857	Named	Unassigned
+330N137A	HMT-330	Micavibrio aeruginosavorus	Strain: ARL-13	GB: DQ186612	Named	Unassigned
+006FI012	HMT-006	Sphingomonas sp. HMT 006	Clone: FI012	GB: AY349411	Phylotype	Unassigned
+342N143A	HMT-342	Novosphingobium panipatense	Strain: SM16	GB: NR_044210	Named	Unassigned
+747_5837	HMT-747	Erythromicrobium ramosum	Strain: DSM 8510	GB: AF465837	Named	Unassigned
+007_3452	HMT-007	Porphyrobacter tepidarius	Strain: 4b	GB: AJ223452	Named	Unassigned
+003_0566	HMT-003	Sphingomonas echinoides	Clone: nby481c06c1	GB: HM830566	Named	Unassigned
+004_9487	HMT-004	Sphingomonas sp. HMT 004	Clone: nby660h11c1	GB: HM839487	Phylotype	Unassigned
+590_9422	HMT-590	Brevundimonas diminuta	Strain: IFO 3140	GB: D49422	Named	Unassigned
+002_3433	HMT-002	Caulobacter sp. HMT 002	Strain: TWE165	GB: DQ493433	Phylotype	Unassigned
+636_7774	HMT-636	Bosea vestrisii	Strain: G8569	GB: U87774	Named	Unassigned
+597_5000	HMT-597	Bradyrhizobium elkanii	Strain: USDA 76	GB: U35000	Named	Unassigned
+559_7759	HMT-559	Afipia broomeae	Strain: ATCC 49717	GB: U87759	Named	Unassigned
+652_7769	HMT-652	Afipia sp. genotype 4	Strain: G9018	GB: U87769	Unnamed	Unassigned
+104N072A	HMT-104	Paracoccus yeei	Strain: G1212	GB: NR_029038	Named	Unassigned
+857_7798	HMT-857	Rhodobacter capsulatus	Strain: TCRI	GB: AB017798	Named	Unassigned
+316N134A	HMT-316	Haematobacter missouriensis	Strain: H1892	GB: NR_043734	Named	Unassigned
+659_0166	HMT-659	Mesorhizobium loti	Strain: ICMP 3153	GB: U50166	Named	Unassigned
+660_5312	HMT-660	Defluvibacter lusatiensis	Strain: DSM 11099	GB: NR_025312	Named	Unassigned
+544_4398	HMT-544	Ochrobactrum anthropi	Strain: LMG 3331	GB: AM114398	Named	Unassigned
+485_1223	HMT-485	Agrobacterium tumefaciens	Strain: DMS 30105	GB: M11223	Named	Unassigned
+001A28SC	HMT-001	Bartonella schoenbuchensis	Strain: A28SC	GB: GQ422708	Named	Unassigned
+663_5923	HMT-663	Stenotrophomonas maltophilia	Strain: LMG 958	GB: X95923	Named	Unassigned
+037AY088	HMT-037	Stenotrophomonas nitritireducens	Clone: AY088	GB: AF385546	Named	Unassigned
+028_5031	HMT-028	Rhodocyclus sp. HMT 028	Strain: A08KA	GB: AY005031	Unnamed	Unassigned
+571_7530	HMT-571	Burkholderia cepacia	Strain: ATCC 25416	GB: AF097530	Named	Unassigned
+027_5039	HMT-027	Cupriavidus gilardii	Strain: C37KA	GB: AY005039	Named	Unassigned
+854_3152	HMT-854	Ralstonia pickettii	Strain: ATCC 27511	GB: NR_043152	Named	Unassigned
+406AK168	HMT-406	Ralstonia sp. HMT 406	Clone: AK168	GB: AY005032	Phylotype	Unassigned
+343_4907	HMT-343	Achromobacter xylosoxidans	Strain: DSM 30026	GB: Y14907	Named	Unassigned
+828_2327	HMT-828	Bordetella pertussis	Strain: CIP 105.894	GB: AF142327	Named	Unassigned
+022AP009	HMT-022	Lautropia mirabilis	Clone: AP009	GB: AY005030	Named	Oral
+022_3223	HMT-022	Lautropia mirabilis	Strain: Fredericksen	GB: X73223	Named	Oral
+266N124A	HMT-266	Leptothrix sp. HMT 266	Clone: EV818SWSAP20	GB: DQ337065	Phylotype	Unassigned
+025AV011	HMT-025	Leptothrix sp. HMT 025	Clone: AV011a	GB: AF385528	Phylotype	Unassigned
+024_5876	HMT-024	Schlegelella thermodepolymerans	Strain: DhA-71	GB: AF125876	Named	Unassigned
+026CA004	HMT-026	Schlegelella aquatica	Clone: CA004	GB: AF385538	Named	Unassigned
+894Wade2	HMT-894	Ottowia sp. HMT 894	Clone: BL117	GB: JQ406530	Unnamed	Unassigned
+894-Wade	HMT-894	Ottowia sp. HMT 894	Strain: W10237	GB: tbd	Unnamed	Unassigned
+717_3736	HMT-717	Variovorax paradoxus	Strain: NBRC 15149	GB: NR_113736	Named	Unassigned
+211N113A	HMT-211	Acidovorax caeni	Strain: R-24608	GB: NR_042427	Named	Unassigned
+216N114A	HMT-216	Acidovorax temperans	Strain: PHL	GB: NR_028715	Named	Unassigned
+209N112A	HMT-209	Acidovorax ebreus	Strain: YW12	GB: KM287569	Named	Unassigned
+858_9161	HMT-858	Comamonas testosteroni	Strain: ATCC 11996	GB: NR_029161	Named	Oral
+023_0186	HMT-023	Delftia acidovorans	Strain: MBIC 1305	GB: AB020186	Named	Unassigned
+023_2803	HMT-023	Delftia acidovorans	Strain: 158	GB: AJ002803	Named	Unassigned
+174N106B	HMT-174	Neisseriaceae [G-1] [G-1] bacterium HMT 174	Clone: MA02H06	GB: FM873692	Phylotype	Nasal
+327N135A	HMT-327	Neisseriaceae [G-1] [G-1] bacterium HMT 327	Clone: ELU0028-000348	GB: HQ749958	Phylotype	Unassigned
+683_8147	HMT-683	Simonsiella muelleri	Strain: ATCC29453T	GB: AF328147	Named	Oral
+932_4648	HMT-932	Kingella sp. HMT 932	Clone: ELU0155-000287	GB: HQ804648	Phylotype	Oral
+459ID059	HMT-459	Kingella sp. HMT 459	Clone: ID059	GB: AY349381	Phylotype	Oral
+582_6166	HMT-582	Kingella denitrificans	Strain: UB-294	GB: L06166	Named	Oral
+577_0620	HMT-577	Eikenella corrodens	Strain: 1664276	GB: AF320620	Named	Oral
+577M-D25	HMT-577	Eikenella corrodens	Strain: Moore D25	GB: GQ422740	Named	Oral
+011_6165	HMT-011	Eikenella sp. HMT 011	Strain: UB-204	GB: L06165	Lost	Oral
+014AP085	HMT-014	Neisseria oralis	Clone: AP085	GB: AY005023	Named	Oral
+014F0314	HMT-014	Neisseria oralis	Strain: F0314	GB: tbd	Named	Oral
+598_6171	HMT-598	Neisseria elongata	Strain: ATCC 25295	GB: L06171	Named	Oral
+012_2982	HMT-012	Kingella sp. HMT 012	Clone: 070038_218	GB: JQ462982	Phylotype	Oral
+012DE012	HMT-012	Kingella sp. HMT 012	Clone: DE012	GB: AF366267	Phylotype	Oral
+012_2485	HMT-012	Kingella sp. HMT 012	Clone: 069088_248	GB: JQ452485	Phylotype	Oral
+523_3630	HMT-523	Neisseria sp. HMT 523	Clone: MB5_P15	GB: DQ003630	Phylotype	Unassigned
+646_1999	HMT-646	Kingella kingae	Strain: ATCC 23330	GB: AY551999	Named	Unassigned
+646_1998	HMT-646	Kingella kingae	Clone: 070038_218	GB: AY551998	Named	Unassigned
+706_6164	HMT-706	Kingella oralis	Strain: CCUG 30450	GB: L06164	Named	Oral
+499JC012	HMT-499	Neisseria sp. HMT 499	Clone: JC012	GB: AY349388	Phylotype	Oral
+018_0511	HMT-018	Neisseria sp. HMT 018	Clone: 069082_036	GB: JQ450511	Phylotype	Oral
+020_5028	HMT-020	Neisseria sp. HMT 020	Strain: B33KA	GB: AY005028	Unnamed	Oral
+020_1395	HMT-020	Neisseria sp. HMT 020	Clone: 069085_216	GB: JQ451395	Unnamed	Oral
+013_5756	HMT-013	Neisseria bacilliformis	Strain: S4	GB: KM225756	Named	Oral
+013AK105	HMT-013	Neisseria bacilliformis	Clone: AK105	GB: AY005029	Named	Oral
+013_9613	HMT-013	Neisseria bacilliformis	Clone: P4D1-729	GB: EF509613	Named	Oral
+092_0738	HMT-092	Neisseria weaveri	Strain: CDC 8142	GB: L10738	Named	Oral
+476_9291	HMT-476	Neisseria subflava	Strain: U37	GB: AJ239291	Named	Oral
+610_1998	HMT-610	Neisseria flavescens	Clone: P1D1-762	GB: EF511998	Named	Oral
+101N065A	HMT-101	Neisseria perflava	Strain: Branham 7078	GB: NR_117694	Named	Unassigned
+737_6167	HMT-737	Neisseria polysaccharea	Strain: ATCC 43768	GB: L06167	Named	Unassigned
+956_1687	HMT-956	Neisseria cinerea	Strain: ATCC 14685	GB: NR_121687	Named	Oral
+669_2273	HMT-669	Neisseria meningitidis	Strain: M8067	GB: AF382273	Named	Oral
+621_7714	HMT-621	Neisseria gonorrhoeae	Strain: NCTC 83785	GB: X07714	Named	Unassigned
+649_9286	HMT-649	Neisseria lactamica	Strain: NCTC 10617	GB: AJ239286	Named	Oral
+682_9282	HMT-682	Neisseria mucosa	Strain: LNP405	GB: AJ239282	Named	Oral
+099N064A	HMT-099	Neisseria macacae	Strain: M-740	GB: NR_117701	Named	Unassigned
+764_9292	HMT-764	Neisseria sicca	Strain: Q13	GB: AJ239292	Named	Oral
+609_9301	HMT-609	Neisseria flava	Strain: U40	GB: AJ239301	Named	Oral
+540_4696	HMT-540	Cardiobacterium valvarum	Strain: AB 2168	GB: AF144696	Named	Oral
+633_5014	HMT-633	Cardiobacterium hominis	Strain: ATCC 16826	GB: M35014	Named	Oral
+633_4697	HMT-633	Cardiobacterium hominis	Strain: AB 2167	GB: AF144697	Named	Oral
+612_4476	HMT-612	Pseudomonas fluorescens	Strain: ATCC 13525	GB: NR_114476	Named	Unassigned
+344N144A	HMT-344	Pseudomonas luteola	Strain: NBRC 103146	GB: NR_114215	Named	Unassigned
+477_3219	HMT-477	Pseudomonas stutzeri	Strain: KC	GB: AF063219	Named	Unassigned
+740_6666	HMT-740	Pseudomonas pseudoalcaligenes	Strain: LMG 1225	GB: Z76666	Named	Unassigned
+032AZ002	HMT-032	Pseudomonas sp. HMT 032	Clone: AZ002	GB: AF385547	Phylotype	Unassigned
+536_6651	HMT-536	Pseudomonas aeruginosa	Strain: LMG 1242	GB: Z76651	Named	Unassigned
+834_3147	HMT-834	Pseudomonas otitidis	Strain: MCC 10330	GB: AY953147	Named	Unassigned
+005N001A	HMT-005	Acinetobacter lwoffii	Strain: JCM 6840	GB: NR_113346	Named	Unassigned
+297N132A	HMT-297	Acinetobacter johnsonii	Strain: ATCC 17909	GB: NR_117624	Named	Unassigned
+010N002A	HMT-010	Acinetobacter radioresistens	Strain: NBRC 102413	GB: NR_114074	Named	Unassigned
+408_8636	HMT-408	Acinetobacter sp. HMT 408	Clone: C4AKM094	GB: AY278636	Phylotype	Unassigned
+554_1660	HMT-554	Acinetobacter baumannii	Strain: DSM 30007	GB: X81660	Named	Unassigned
+282N127A	HMT-282	Acinetobacter junii	Strain: 17908	GB: NR_117623	Named	Unassigned
+711_5304	HMT-711	Moraxella osloensis	Strain: Ben 58	GB: X95304	Named	Unassigned
+154N099B	HMT-154	Moraxella lincolnii	Clone: ncd1569e11c1	GB: JF136073	Named	Nasal
+154N099A	HMT-154	Moraxella lincolnii	Strain: LMG 5127	GB: NR_117693	Named	Nasal
+154N099C	HMT-154	Moraxella lincolnii	Clone: ncd2795b03c1	GB: JF239969	Named	Nasal
+276N126A	HMT-276	Moraxella sp. HMT 276	Clone: ncd26f04c1	GB: JF000627	Phylotype	Unassigned
+098N062A	HMT-098	Moraxella nonliquefaciens	Strain: 4663/62	GB: NR_104938	Named	Nasal
+098N062C	HMT-098	Moraxella nonliquefaciens	Clone: ncd1018e10c1	GB: HM341635	Named	Nasal
+833_0876	HMT-833	Moraxella catarrhalis	Strain: ATCC 25238	GB: U10876	Named	Nasal
+833N000A	HMT-833	Moraxella catarrhalis	Clone: ncd1722h10c1	GB: JF141417	Named	Nasal
+827_7604	HMT-827	Yersinia pestis	Strain: not listed	GB: L37604	Named	Unassigned
+676_8582	HMT-676	Proteus mirabilis	Strain: ATCC 29906	GB: AF008582	Named	Unassigned
+753_4746	HMT-753	Cronobacter sakazakii	Strain: JCM1233	GB: AB004746	Named	Unassigned
+574_5588	HMT-574	Escherichia coli	Strain: not listed	GB: M25588	Named	Unassigned
+115N083A	HMT-115	Serratia marcescens	Strain: DSM 30121	GB: NR_041980	Named	Unassigned
+865_6566	HMT-865	Kluyvera ascorbata	Strain: CDC 0556/74	GB: AF176566	Named	Unassigned
+865F0526	HMT-865	Kluyvera ascorbata	Strain: F0526	GB: tbd	Named	Unassigned
+153N098A	HMT-153	Klebsiella aerogenes	Strain: KCTC 2190	GB: NR_102493	Named	Unassigned
+634_3890	HMT-634	Enterobacter hormaechei	Strain: DSMZ 16691	GB: AJ853890	Named	Unassigned
+565_6078	HMT-565	Enterobacter cancerogenus	Strain: LMG 2693	GB: Z96078	Named	Unassigned
+731_7657	HMT-731	Klebsiella pneumoniae	Strain: ATCC 13884	GB: Y17657	Named	Unassigned
+731N000B	HMT-731	Klebsiella pneumoniae	Strain: DSM 30104	GB: NR_117686	Named	Unassigned
+731_8919	HMT-731	Klebsiella pneumoniae	Strain: ATCC 13885	GB: AF228919	Named	Unassigned
+944_6642	HMT-944	Haemophilus sputorum	Strain: CCUG 13788	GB: JF506642	Named	Oral
+821_3483	HMT-821	Haemophilus ducreyi	Strain: ATCC 33921	GB: AY513483	Named	Unassigned
+945_5384	HMT-945	Haemophilus parahaemolyticus	Strain: G321	GB: LK985384	Named	Oral
+945_5746	HMT-945	Haemophilus parahaemolyticus	Strain: NCTC 8479	GB: AJ295746	Named	Oral
+035_3523	HMT-035	Haemophilus paraphrohaemolyticus	Clone: ELU0153-000341	GB: HQ803523	Named	Oral
+035_8142	HMT-035	Haemophilus paraphrohaemolyticus	Strain: NCTC 10670	GB: NR_118142	Named	Oral
+718_3530	HMT-718	Haemophilus parainfluenzae	Strain: CIP 102513	GB: EU083530	Named	Nasal
+718N000A	HMT-718	Haemophilus parainfluenzae	Clone: ncd81b03c1	GB: HM255881	Named	Nasal
+946_0755	HMT-946	Haemophilus pittmaniae	Strain: CCUG 48703	GB: AJ290755	Named	Oral
+259N116B	HMT-259	Haemophilus sp. HMT 259	Clone: M10127	GB: AY613546	Phylotype	Unassigned
+259N116A	HMT-259	Haemophilus sp. HMT 259	Clone: ncd2419h01c1	GB: JF210233	Phylotype	Unassigned
+641_3619	HMT-641	Haemophilus influenzae	Strain: M3669	GB: AY613619	Named	Nasal
+641_5019	HMT-641	Haemophilus influenzae	Strain: ATCC 33391	GB: M35019	Named	Nasal
+535_5044	HMT-535	Haemophilus aegyptius	Strain: NCTC 8502	GB: M75044	Named	Oral
+641N000B	HMT-641	Haemophilus influenzae	Clone: ncd2740e04c1	GB: JF236380	Named	Nasal
+851N000A	HMT-851	Haemophilus haemolyticus	Clone: ncd2361b09c1	GB: JF199888	Named	Oral
+851F0397	HMT-851	Haemophilus haemolyticus	Strain: F0397	GB: HM596277	Named	Oral
+908-Wade	HMT-908	Haemophilus sp. HMT 908	Clone: AL159	GB: JQ406529	Phylotype	Oral
+908_1362	HMT-908	Haemophilus sp. HMT 908	Clone: ELU0149-000192	GB: HQ801362	Phylotype	Oral
+036_3900	HMT-036	Haemophilus sp. HMT 036	Clone: ELU0098-000114	GB: HQ783900	Unnamed	Oral
+036_8981	HMT-036	Haemophilus sp. HMT 036	Clone: 16slp93-3e06.p1k	GB: GQ158981	Unnamed	Oral
+531_5035	HMT-531	Aggregatibacter actinomycetemcomitans	Strain: FDC Y4	GB: M75035	Named	Oral
+531_5039	HMT-531	Aggregatibacter actinomycetemcomitans	Strain: ATCC 33384	GB: M75039	Named	Oral
+949_6655	HMT-949	Aggregatibacter sp. HMT 949	Clone: CCUG 36139	GB: JF506655	Phylotype	Oral
+545F0387	HMT-545	Aggregatibacter aphrophilus	Strain: F0387	GB: tbd	Named	Oral
+545_5041	HMT-545	Aggregatibacter aphrophilus	Strain: ATCC 33389	GB: M75041	Named	Oral
+720_5042	HMT-720	Aggregatibacter paraphrophilus	Strain: ATCC 29241	GB: M75042	Named	Oral
+898-Wade	HMT-898	Aggregatibacter sp. HMT 898	Clone: HS19_2W_I12	GB: KC203060	Phylotype	Oral
+898_5716	HMT-898	Aggregatibacter sp. HMT 898	Clone: ncd1799g05c1	GB: JF155716	Phylotype	Oral
+513_3635	HMT-513	Aggregatibacter sp. HMT 513	Clone: MB3_C38	GB: DQ003635	Phylotype	Oral
+458JM053	HMT-458	Aggregatibacter sp. HMT 458	Clone: JM053	GB: AY349380	Unnamed	Oral
+762_5043	HMT-762	Aggregatibacter segnis	Strain: ATCC 33393	GB: M75043	Named	Oral
+512_3621	HMT-512	Aggregatibacter sp. HMT 512	Clone: MB3_C24	GB: DQ003621	Lost	Oral
+733_6108	HMT-733	Chlamydophila pneumoniae	Strain: TW183	GB: L06108	Named	Unassigned
+271_C025	HMT-271	Treponema sp. HMT 271	Clone: _C025	GB: AF023043	Phylotype	Unassigned
+258_C009	HMT-258	Treponema sp. HMT 258	Clone: _C009	GB: AF023042	Phylotype	Oral
+490_9247	HMT-490	Treponema sp. HMT 490	Strain: OMZ 839	GB: AY369247	Unnamed	Unassigned
+490JU025	HMT-490	Treponema sp. HMT 490	Clone: JU025	GB: AY349417	Unnamed	Unassigned
+653_3040	HMT-653	Treponema lecithinolyticum	Clone: GF6	GB: AF023040	Named	Oral
+260_D031	HMT-260	Treponema sp. HMT 260	Clone: _D031	GB: AF023041	Phylotype	Unassigned
+664_3039	HMT-664	Treponema maltophilum	Strain: Smibert D4B	GB: AF023039	Named	Oral
+664_C021	HMT-664	Treponema maltophilum	Clone: _C021	GB: AF023038	Named	Oral
+725_1237	HMT-725	Treponema pectinovorum	Strain: ATCC 33768	GB: M71237	Named	Oral
+270DD012	HMT-270	Treponema sp. HMT 270	Clone: DD012	GB: GQ422733	Phylotype	Oral
+724_3304	HMT-724	Treponema parvum	Strain: D96NR-3	GB: AF033304	Named	Oral
+927_9278	HMT-927	Treponema sp. HMT 927	Clone: nbu415h07c1	GB: GQ039278	Phylotype	Unassigned
+265_U007	HMT-265	Treponema sp. HMT 265	Clone: _U007A	GB: AF023046	Phylotype	Unassigned
+262AT040	HMT-262	Treponema sp. HMT 262	Clone: AT040	GB: AF182834	Phylotype	Oral
+541_3045	HMT-541	Treponema amylovorum	Strain: D62CR12	GB: AF023045	Named	Oral
+257_D36	HMT-257	Treponema sp. HMT 257	Strain: D36ER-1	GB: AF023044	Lost	Oral
+263BH022	HMT-263	Treponema sp. HMT 263	Clone: BH022	GB: AF182837	Phylotype	Unassigned
+264BZ013	HMT-264	Treponema sp. HMT 264	Clone: BZ013	GB: AF385536	Phylotype	Unassigned
+269_D15	HMT-269	Treponema sp. HMT 269	Strain: D15A-4	GB: AY005083	Lost	Oral
+769_3307	HMT-769	Treponema socranskii	Strain: ATCC 35535	GB: AF033307	Named	Oral
+769_3306	HMT-769	Treponema socranskii	Strain: ATCC 35536	GB: AF033306	Named	Oral
+268_D120	HMT-268	Treponema sp. HMT 268	Strain: D120CR-1	GB: AF033303	Lost	Oral
+268IL034	HMT-268	Treponema sp. HMT 268	Clone: IL034	GB: AY349418	Lost	Oral
+769_3308	HMT-769	Treponema socranskii	Strain: D11B-2	GB: AF033308	Named	Oral
+769_3305	HMT-769	Treponema socranskii	Strain: ATCC 35534	GB: AF033305	Named	Oral
+769_C044	HMT-769	Treponema socranskii	Clone: _C044	GB: AF056344	Named	Oral
+769_G047	HMT-769	Treponema socranskii	Clone: _G047	GB: AF056343	Named	Oral
+805_8726	HMT-805	Treponema pallidum	Strain: Nichols	GB: M88726	Named	Unassigned
+246_T001	HMT-246	Treponema sp. HMT 246	Clone: _T001	GB: AF023031	Phylotype	Oral
+247_G093	HMT-247	Treponema sp. HMT 247	Clone: _G093	GB: AF023032	Phylotype	Oral
+584_1236	HMT-584	Treponema denticola	Strain: ATCC 33520	GB: M71236	Named	Oral
+584_D012	HMT-584	Treponema denticola	Clone: _D012	GB: AF023030	Named	Oral
+743_9249	HMT-743	Treponema putidum	Strain: OMZ 844	GB: AY369249	Named	Oral
+249_C053	HMT-249	Treponema sp. HMT 249	Clone: _C053	GB: AF023037	Phylotype	Unassigned
+508_3618	HMT-508	Treponema sp. HMT 508	Clone: MB2_G19	GB: DQ003618	Phylotype	Oral
+518_3625	HMT-518	Treponema sp. HMT 518	Clone: MB4_G11	GB: DQ003625	Phylotype	Oral
+252BA213	HMT-252	Treponema sp. HMT 252	Clone: BA213	GB: AF056341	Phylotype	Oral
+254AT013	HMT-254	Treponema sp. HMT 254	Clone: AT013	GB: AF182836	Phylotype	Oral
+256BB003	HMT-256	Treponema sp. HMT 256	Clone: BB003	GB: AF182835	Phylotype	Oral
+250_D024	HMT-250	Treponema sp. HMT 250	Clone: _D024	GB: AF023028	Phylotype	Unassigned
+253BQ032	HMT-253	Treponema sp. HMT 253	Clone: BQ032	GB: AF182838	Phylotype	Oral
+251_U008	HMT-251	Treponema sp. HMT 251	Clone: _U008A	GB: AF056340	Phylotype	Unassigned
+517_3624	HMT-517	Treponema sp. HMT 517	Clone: MB3_P23	GB: DQ003624	Phylotype	Oral
+951_0103	HMT-951	Treponema sp. HMT 951	Clone: 303D03	GB: AM420103	Phylotype	Oral
+235_D047	HMT-235	Treponema sp. HMT 235	Clone: _D047	GB: AF023063	Phylotype	Oral
+242AU076	HMT-242	Treponema sp. HMT 242	Clone: AU076	GB: AF182831	Phylotype	Oral
+226_G054	HMT-226	Treponema sp. HMT 226	Clone: _G054	GB: AF023062	Phylotype	Oral
+238AT020	HMT-238	Treponema sp. HMT 238	Clone: AT020	GB: AF061347	Phylotype	Oral
+230AF068	HMT-230	Treponema sp. HMT 230	Clone: AF068	GB: AY005081	Phylotype	Oral
+230_D013	HMT-230	Treponema sp. HMT 230	Clone: _D013	GB: AF023053	Phylotype	Oral
+239JU031	HMT-239	Treponema sp. HMT 239	Clone: JU031	GB: AY349416	Phylotype	Oral
+239AF026	HMT-239	Treponema sp. HMT 239	Clone: AF026	GB: AF061348	Phylotype	Oral
+234_Y001	HMT-234	Treponema sp. HMT 234	Clone: _Y001	GB: AF023056	Phylotype	Oral
+232_T019	HMT-232	Treponema sp. HMT 232	Clone: _T019	GB: AF023059	Phylotype	Unassigned
+227BA223	HMT-227	Treponema sp. HMT 227	Clone: BA223	GB: AF056339	Phylotype	Oral
+236AF016	HMT-236	Treponema sp. HMT 236	Clone: AF016	GB: AF056338	Phylotype	Oral
+228_T031	HMT-228	Treponema sp. HMT 228	Clone: _T031	GB: AF023054	Phylotype	Oral
+029_3309	HMT-029	Treponema vincentii	Strain: ATCC 35580	GB: AF033309	Named	Oral
+667_3051	HMT-667	Treponema medium	Clone: _C007	GB: AF023051	Named	Oral
+231_T021	HMT-231	Treponema sp. HMT 231	Clone: _T021	GB: AF023055	Phylotype	Oral
+237AT039	HMT-237	Treponema sp. HMT 237	Clone: AT039	GB: AF061349	Phylotype	Oral
+237_1822	HMT-237	Treponema sp. HMT 237	Clone: P4GB_42	GB: AY341822	Phylotype	Oral
+237AT024	HMT-237	Treponema sp. HMT 237	Clone: AT024	GB: AF061350	Phylotype	Oral
+237_G057	HMT-237	Treponema sp. HMT 237	Clone: _G057	GB: AF056337	Phylotype	Oral
+99427171	HMT-994	Caldilinea aerophila	Strain: DSM 14535 = NBRC 104270	PROKKA: SEQF2717_01047	NonOralRef	NonOralRef
+99427172	HMT-994	Caldilinea aerophila	Strain: DSM 14535 = NBRC 104270	PROKKA: SEQF2717_01360	NonOralRef	NonOralRef
+439_8332	HMT-439	Anaerolineae [G-1] [G-1] bacterium HMT 439	Clone: PCR-walk	GB: KM018332	Unnamed	Oral
+99527151	HMT-995	Anaerolinea thermophila	Strain: UNI-1	PROKKA: SEQF2715_00172	NonOralRef	NonOralRef
+99527152	HMT-995	Anaerolinea thermophila	Strain: UNI-1	PROKKA: SEQF2715_00631	NonOralRef	NonOralRef
+777_1216	HMT-777	Jonquetella anthropi	Strain: E3_33	GB: AF481216	Named	Oral
+357BA121	HMT-357	Pyramidobacter piscolens	Clone: BA121	GB: AY005444	Named	Oral
+357_8615	HMT-357	Pyramidobacter piscolens	Clone: C2ALM009	GB: AY278615	Named	Oral
+357W5455	HMT-357	Pyramidobacter piscolens	Strain: W5455	GB: EU309492	Named	Oral
+363_W028	HMT-363	Fretibacterium fastidiosum	Clone: W028	GB: AF125202	Named	Oral
+363_1215	HMT-363	Fretibacterium fastidiosum	Clone: MCE3_120	GB: AF481215	Named	Oral
+363_W090	HMT-363	Fretibacterium fastidiosum	Clone: W090	GB: AF125203	Named	Oral
+359BH007	HMT-359	Fretibacterium sp. HMT 359	Clone: BH007	GB: AY005447	Phylotype	Oral
+362_0928	HMT-362	Fretibacterium sp. HMT 362	Clone: 2P9	GB: JX010928	Phylotype	Oral
+362_D084	HMT-362	Fretibacterium sp. HMT 362	Clone: D084	GB: AF125200	Phylotype	Oral
+360BH017	HMT-360	Fretibacterium sp. HMT 360	Clone: BH017	GB: AF125199	Phylotype	Oral
+358BB062	HMT-358	Fretibacterium sp. HMT 358	Clone: BB062	GB: AY005445	Phylotype	Oral
+361JV023	HMT-361	Fretibacterium sp. HMT 361	Clone: JV023	GB: AY349372	Phylotype	Oral
+361_D006	HMT-361	Fretibacterium sp. HMT 361	Clone: D006	GB: AF125201	Phylotype	Oral
+361_1214	HMT-361	Fretibacterium sp. HMT 361	Clone: MCE7_5	GB: AF481214	Phylotype	Oral
+654_2375	HMT-654	Eggerthella lenta	Strain: ATCC 25559	GB: AF292375	Named	Unassigned
+579F0066	HMT-579	Cryptobacterium curtum	Strain: F0066	GB: GQ422741	Named	Oral
+602_4045	HMT-602	Slackia exigua	Strain: S4-C6	GB: JX104045	Named	Oral
+602_1240	HMT-602	Slackia exigua	Strain: ATCC 700122	GB: AF101240	Named	Oral
+807F0004	HMT-807	Olsenella sp. HMT 807	Strain: F0004	GB: EU592964	Unnamed	Oral
+038_2373	HMT-038	Olsenella uli	Strain: ATCC 49627	GB: AF292373	Named	Oral
+809F0206	HMT-809	Olsenella sp. HMT 809	Strain: F0206	GB: EU592965	Unnamed	Unassigned
+939_2362	HMT-939	Olsenella sp. HMT 939	Clone: ncd319g05c1	GB: HM312362	Phylotype	Unassigned
+806_2374	HMT-806	Olsenella profusa	Strain: D315A-29	GB: AF292374	Named	Oral
+810_9768	HMT-810	Atopobium sp. HMT 810	Strain: BV3Ac1	GB: JN809768	Unnamed	Unassigned
+810F0209	HMT-810	Atopobium sp. HMT 810	Strain: F0209	GB: EU592966	Unnamed	Unassigned
+814_5325	HMT-814	Atopobium vaginae	Strain: VA14183_00	GB: AF325325	Named	Unassigned
+416_8623	HMT-416	Atopobium sp. HMT 416	Clone: C3MLM018	GB: AY278623	Unnamed	Unassigned
+674_7148	HMT-674	Atopobium minutum	Strain: NCFB 2751	GB: X67148	Named	Unassigned
+723_2372	HMT-723	Atopobium parvulum	Strain: ATCC22793	GB: AF292372	Named	Oral
+750_2371	HMT-750	Atopobium rimae	Strain: ATCC49626	GB: AF292371	Named	Oral
+199-C19	HMT-199	Atopobium sp. HMT 199	Clone: _C019	GB: AF287760	Unnamed	Oral
+407_8612	HMT-407	Bifidobacteriaceae [G-2] [G-2] bacterium HMT 407	Clone: C5AKM003	GB: AY278612	Phylotype	Unassigned
+198_2583	HMT-198	Alloscardovia omnicolens	Strain: CCUG 31649	GB: NR_042583	Named	Oral
+198H6-M4	HMT-198	Alloscardovia omnicolens	Strain: H6-M4	GB: AF385524	Named	Oral
+586_9331	HMT-586	Parascardovia denticolens	Strain: DSM 10105	GB: D89331	Named	Unassigned
+642F0304	HMT-642	Scardovia inopinata	Strain: F0304	GB: GQ131412	Named	Unassigned
+195F0424	HMT-195	Scardovia wiggsiae	Strain: F0424	GB: HM596282	Named	Oral
+195_8626	HMT-195	Scardovia wiggsiae	Strain: C1A_55	GB: AY278626	Named	Oral
+829_4095	HMT-829	Gardnerella vaginalis	Strain: NML 060420	GB: EF194095	Named	Vaginal
+890_9329	HMT-890	Bifidobacterium subtile	Strain: JCM 7109	GB: D89329	Named	Unassigned
+895_6185	HMT-895	Bifidobacterium animalis	Strain: JCM 1190	GB: D86185	Named	Unassigned
+895_0136	HMT-895	Bifidobacterium animalis	Strain: DSM 10140	GB: AB050136	Named	Unassigned
+889_6658	HMT-889	Bifidobacterium breve	Strain: ATCC 15700	GB: AB006658	Named	Unassigned
+862_3437	HMT-862	Bifidobacterium longum	Strain: ATCC 15697	GB: NR_043437	Named	Unassigned
+891_7363	HMT-891	Bifidobacterium scardovii	Strain: YIT 11867	GB: AB437363	Named	Unassigned
+588_6183	HMT-588	Bifidobacterium dentium	Strain: ATCC 27534	GB: D86183	Named	Unassigned
+915-Wade	HMT-915	Propionibacteriaceae [G-1] [G-1] bacterium HMT 915	Clone: HS10_B_C3	GB: KC203064	Phylotype	Oral
+192C3KA	HMT-192	Propionibacteriaceae [G-2] [G-2] bacterium HMT 192	Strain: C3KA	GB: GQ422728	Unnamed	Unassigned
+191F0233	HMT-191	Propionibacterium acidifaciens	Strain: F0233	GB: tbd	Named	Oral
+191FMA5B	HMT-191	Propionibacterium acidifaciens	Strain: FMA5	GB: AF287756	Named	Oral
+194BN085	HMT-194	Arachnia sp. HMT 194	Clone: BN085	GB: AF287757	Phylotype	Oral
+739_5953	HMT-739	Arachnia propionicum	Strain: DSM 43307	GB: AJ315953	Named	Oral
+114N078A	HMT-114	Cutibacterium granulosum	Strain: JCM 6498	GB: NR_113367	Named	Unassigned
+552_3055	HMT-552	Cutibacterium avidum	Strain: DSM 4901	GB: AJ003055	Named	Unassigned
+193METC3	HMT-193	Cutibacterium sp. HMT 193	Strain: Met-C3	GB: GQ422729	Unnamed	Unassigned
+530_5256	HMT-530	Cutibacterium acnes	Strain: 63597	GB: AF145256	Named	Oral
+530N000A	HMT-530	Cutibacterium acnes	Strain: JCM 6425	GB: NR_113028	Named	Oral
+692_9564	HMT-692	Mycobacterium neoaurum	Strain: ATCC 25795	GB: M29564	Named	Unassigned
+823_2782	HMT-823	Mycobacterium leprae	Strain: Br4923	GB: NR_102782	Named	Unassigned
+822_2917	HMT-822	Mycobacterium tuberculosis	Strain: not listed	GB: X52917	Named	Unassigned
+368_1211	HMT-368	Dietzia cinnamea	Strain: E9_2	GB: AF481211	Named	Unassigned
+173N105B	HMT-173	Lawsonella clevelandensis	Strain: X1036	GB: JX877776	Named	Skin
+173N105C	HMT-173	Lawsonella clevelandensis	Clone: Ej-10-F-084	GB: AB991511	Named	Skin
+832_9809	HMT-832	Turicella otitidis	Clone: nbw13b04c1	GB: GQ059809	Named	Unassigned
+049N035A	HMT-049	Corynebacterium kroppenstedtii	Strain: DSM 44385	GB: NR_074408	Named	Unassigned
+031N028A	HMT-031	Corynebacterium amycolatum	Strain: NCFB 2768	GB: NR_119171	Named	Unassigned
+208N111A	HMT-208	Corynebacterium bovis	Strain: Evans	GB: NR_037042	Named	Unassigned
+047N034A	HMT-047	Corynebacterium jeikeium	Strain: A376/84	GB: NR_037035	Named	Unassigned
+853_7597	HMT-853	Corynebacterium urealyticum	Strain: DSM 7109	GB: NR_027597	Named	Unassigned
+328N136A	HMT-328	Corynebacterium mastitidis	Strain: S-8	GB: NR_026376	Named	Unassigned
+328N136B	HMT-328	Corynebacterium mastitidis	Clone: ncd2392g07c1	GB: JF208381	Named	Unassigned
+595F235b	HMT-595	Corynebacterium durum	Strain: F0235b	GB: tbd	Named	Oral
+595F235a	HMT-595	Corynebacterium durum	Strain: F0235a	GB: tbd	Named	Oral
+595_7069	HMT-595	Corynebacterium durum	Strain: IBS G15036	GB: Z97069	Named	Oral
+666N000A	HMT-666	Corynebacterium matruchotii	Clone: ncd2560d03c1	GB: JF218742	Named	Oral
+666_2065	HMT-666	Corynebacterium matruchotii	Strain: CIP 81.82	GB: X82065	Named	Oral
+666_3287	HMT-666	Corynebacterium matruchotii	Strain: ChDC OS35	GB: AF543287	Named	Oral
+591_2059	HMT-591	Corynebacterium diphtheriae	Strain: CIP 100721	GB: X82059	Named	Unassigned
+184_3093	HMT-184	Corynebacterium tuscaniense	Strain: ISS-5309	GB: NR_043093	Named	Unassigned
+033N029A	HMT-033	Corynebacterium appendicis	Strain: IMMIB R-3491	GB: NR_028951	Named	Unassigned
+207N110B	HMT-207	Corynebacterium sp. HMT 207	Strain: 99221/2016	GB: KY593177	Unnamed	Unassigned
+030N027A	HMT-030	Corynebacterium afermentans	Strain: CIP 103499	GB: NR_026214	Named	Unassigned
+054N039A	HMT-054	Corynebacterium pilbarense	Strain: IMMIB WACC-658	GB: NR_116953	Named	Unassigned
+835_7599	HMT-835	Corynebacterium mucifaciens	Strain: 87-0436	GB: AF537599	Named	Oral
+341N142C	HMT-341	Corynebacterium coyleae	Clone: nck84g07c1	GB: KF073304	Named	Unassigned
+341N142D	HMT-341	Corynebacterium coyleae	Clone: ncd2055g04c1	GB: JF177174	Named	Unassigned
+341N142A	HMT-341	Corynebacterium coyleae	Clone: ncd1441g01c1	GB: JF124719	Named	Unassigned
+341N142B	HMT-341	Corynebacterium coyleae	Clone: nck190d11c1	GB: KF094317	Named	Unassigned
+062N042A	HMT-062	Corynebacterium simulans	Strain: UCL553	GB: NR_025309	Named	Unassigned
+072N044A	HMT-072	Corynebacterium striatum	Strain: Minnett	GB: NR_037041	Named	Unassigned
+063N043A	HMT-063	Corynebacterium singulare	Strain: IBS B52218	GB: NR_026394	Named	Unassigned
+053N038A	HMT-053	Corynebacterium minutissimum	Strain: NCTC 10288	GB: NR_119182	Named	Unassigned
+034N030A	HMT-034	Corynebacterium aurimucosum	Strain: IMMIB D-1488	GB: NR_028941	Named	Unassigned
+333N139A	HMT-333	Corynebacterium massiliense	Strain: 5402485	GB: NR_044182	Named	Unassigned
+059N040A	HMT-059	Corynebacterium propinquum	Strain: B 77159	GB: NR_037038	Named	Nasal
+060N041A	HMT-060	Corynebacterium pseudodiphtheriticum	Strain: CIP 103420	GB: NR_042137	Named	Nasal
+077N045A	HMT-077	Corynebacterium tuberculostearicum	Strain: Medalle X	GB: NR_028975	Named	Unassigned
+019N026A	HMT-019	Corynebacterium accolens	Strain: CNCTC Th1/57	GB: NR_042139	Named	Nasal
+050N037A	HMT-050	Corynebacterium macginleyi	Strain: JCL-2	GB: NR_042138	Named	Unassigned
+185AV005	HMT-185	Microbacterium ginsengisoli	Clone: AV005b	GB: AF385527	Named	Unassigned
+186C24KA	HMT-186	Microbacterium flavescens	Strain: C24KA	GB: AF287752	Named	Unassigned
+855_7359	HMT-855	Kytococcus sedentarius	Strain: CV91	GB: AJ717359	Named	Unassigned
+339N140A	HMT-339	Janibacter indicus	Strain: 0704P10-1	GB: NR_134061	Named	Unassigned
+856_7595	HMT-856	Sanguibacter keddieii	Strain: DSM 10542	GB: NR_027595	Named	Unassigned
+190_5598	HMT-190	Arsenicicoccus bolidensis	Strain: CCUG 47306	GB: NR_025598	Named	Unassigned
+190B46KS	HMT-190	Arsenicicoccus bolidensis	Strain: B46KS	GB: AF287753	Named	Unassigned
+354N047A	HMT-354	Dermabacter hominis	Strain: NCFB 2769	GB: NR_119073	Named	Unassigned
+340N141A	HMT-340	Brevibacterium paucivorans	Strain: CF 62	GB: NR_025375	Named	Unassigned
+340N141B	HMT-340	Brevibacterium paucivorans	Strain: 28	GB: EU086796	Named	Unassigned
+087N061A	HMT-087	Micrococcus luteus	Strain: NCTC 2665	GB: NR_075062	Named	Unassigned
+084N058A	HMT-084	Kocuria palustris	Strain: TAGA27	GB: NR_026451	Named	Unassigned
+197N059A	HMT-197	Kocuria rhizophila	Strain: TA68	GB: NR_026452	Named	Unassigned
+189AW006	HMT-189	Kocuria sp. HMT 189	Clone: AW006	GB: AF385532	Phylotype	Unassigned
+681_4690	HMT-681	Rothia mucilaginosa	Strain: DY-18	GB: NR_074690	Named	Oral
+587_9055	HMT-587	Rothia dentocariosa	Strain: ATCC 17931	GB: M59055	Named	Oral
+188_0891	HMT-188	Rothia aeria	Clone: ncd2429e02c1	GB: JF210891	Named	Oral
+188_3025	HMT-188	Rothia aeria	Strain: CCUG 25688	GB: Y13025	Named	Oral
+811_4059	HMT-811	Arcanobacterium haemolyticum	Strain: CIP 103370	GB: AJ234059	Named	Unassigned
+848F0332	HMT-848	Peptidiphaga gingivicola	Strain: F0332	GB: GQ131416	Named	Oral
+183_8311	HMT-183	Peptidiphaga sp. HMT 183	Clone: EL030	GB: AY008311	Unnamed	Oral
+183_7066	HMT-183	Peptidiphaga sp. HMT 183	Strain: P2P_19	GB: AY207066	Unnamed	Oral
+830_7625	HMT-830	Mobiluncus mulieris	Strain: CCUG 20071	GB: AJ427625	Named	Unassigned
+850F0333	HMT-850	Schaalia cardiffensis	Strain: F0333	GB: GU470888	Named	Oral
+671_2451	HMT-671	Schaalia meyeri	Strain: CIP 103148	GB: X82451	Named	Oral
+617_0413	HMT-617	Schaalia georgiae	Strain: DSM 6843	GB: X80413	Named	Oral
+178B27SC	HMT-178	Schaalia sp. HMT 178	Strain: B27SC	GB: AF287750	Unnamed	Oral
+877F0543	HMT-877	Schaalia sp. HMT 877	Strain: F0543	GB: tbd	Unnamed	Oral
+181_5255	HMT-181	Schaalia lingnae [Not Validly Published]	Clone: ncd1350f07c1	GB: JF115255	Named	Oral
+181_1692	HMT-181	Schaalia lingnae [Not Validly Published]	Clone: ncd2206a07c1	GB: JF191692	Named	Oral
+181H1065	HMT-181	Schaalia lingnae [Not Validly Published]	Strain: Hal-1065	GB: AF385521	Named	Oral
+701_0504	HMT-701	Schaalia odontolyticus	Strain: NCTC 9935	GB: X80504	Named	Oral
+172CT047	HMT-172	Schaalia sp. HMT 172	Clone: CT047	GB: AF385504	Unnamed	Oral
+180H1083	HMT-180	Schaalia sp. HMT 180	Strain: Hal-1083	GB: AF385522	Unnamed	Oral
+180C29KA	HMT-180	Schaalia sp. HMT 180	Strain: C29KA	GB: AF287751	Unnamed	Oral
+180_8611	HMT-180	Schaalia sp. HMT 180	Strain: C3M24	GB: AY278611	Unnamed	Oral
+866_2167	HMT-866	Actinomyces graevenitzii	Strain: CCUG 27294	GB: NR_042167	Named	Oral
+866F0530	HMT-866	Actinomyces graevenitzii	Strain: F0530	GB: tbd	Named	Oral
+746_1986	HMT-746	Actinomyces radicidentis	Strain: CCUG 36733	GB: AJ251986	Named	Unassigned
+179F0378	HMT-179	Actinomyces timonensis	Strain: F0378	GB: tbd	Named	Oral
+179B19SC	HMT-179	Actinomyces timonensis	Strain: B19SC	GB: AF287748	Named	Oral
+708_7295	HMT-708	Actinomyces oricola	Strain: CCUG 46090	GB: AJ507295	Named	Unassigned
+448_3317	HMT-448	Actinomyces sp. HMT 448	Clone: 071059_594	GB: JQ473317	Unnamed	Oral
+448F0400	HMT-448	Actinomyces sp. HMT 448	Strain: F0400	GB: tbd	Unnamed	Oral
+852F0489	HMT-852	Actinomyces massiliensis	Strain: F0489	GB: tbd	Named	Oral
+645_2450	HMT-645	Actinomyces israelii	Strain: CIP 103259	GB: X82450	Named	Oral
+618_1735	HMT-618	Actinomyces gerencseriae	Clone: 069086_229	GB: JQ451735	Named	Oral
+618_0414	HMT-618	Actinomyces gerencseriae	Strain: DSM 6844	GB: X80414	Named	Oral
+897-Wade	HMT-897	Actinomyces sp. HMT 897	Clone: HS14_2W_C6	GB: KC203057	Phylotype	Oral
+414_8610	HMT-414	Actinomyces sp. HMT 414	Clone: C3ALM064	GB: AY278610	Unnamed	Oral
+888_7609	HMT-888	Actinomyces dentalis	Strain: R18165	GB: AJ697609	Named	Oral
+525_3632	HMT-525	Actinomyces sp. HMT 525	Clone: MB6_C03	GB: DQ003632	Phylotype	Oral
+896-Wade	HMT-896	Actinomyces sp. HMT 896	Clone: FL377	GB: JQ406543	Phylotype	Oral
+170AP064	HMT-170	Actinomyces sp. HMT 170	Clone: AP064	GB: AF287749	Unnamed	Oral
+171JA063	HMT-171	Actinomyces sp. HMT 171	Clone: JA063	GB: AY349367	Unnamed	Oral
+171BL008	HMT-171	Actinomyces sp. HMT 171	Clone: BL008	GB: AF385553	Unnamed	Oral
+849F0330	HMT-849	Actinomyces johnsonii	Strain: F0330	GB: GU470900	Named	Oral
+688_2453	HMT-688	Actinomyces viscosus	Strain: NCTC 10951	GB: X82453	Named	Oral
+176_1062	HMT-176	Actinomyces naeslundii	Strain: NCTC 10301	GB: X81062	Named	Oral
+176EP011	HMT-176	Actinomyces naeslundii	Clone: EP011	GB: AY008315	Named	Oral
+176_0512	HMT-176	Actinomyces naeslundii	Clone: 069082_029	GB: JQ450512	Named	Oral
+169F496b	HMT-169	Actinomyces sp. HMT 169	Strain: F0496b	GB: tbd	Unnamed	Oral
+169F496a	HMT-169	Actinomyces sp. HMT 169	Strain: F0496a	GB: tbd	Unnamed	Oral
+169AG004	HMT-169	Actinomyces sp. HMT 169	Clone: AG004	GB: AF287747	Unnamed	Oral
+893_4727	HMT-893	Actinomyces oris	Clone: 070043_377	GB: JQ464727	Named	Oral
+893_5935	HMT-893	Actinomyces oris	Strain: JCM 16131	GB: AB545935	Named	Oral
+175EP005	HMT-175	Actinomyces sp. HMT 175	Clone: EP005	GB: AY008314	Unnamed	Oral
+175_5563	HMT-175	Actinomyces sp. HMT 175	Clone: ncd1455a04c1	GB: JF125563	Unnamed	Oral
+860_9686	HMT-860	Fusobacterium gonidiaformans	Strain: VE32H03	GB: GQ179686	Named	Unassigned
+690_4948	HMT-690	Fusobacterium necrophorum	Strain: D4	GB: AF044948	Named	Oral
+248N122A	HMT-248	Fusobacterium sp. HMT 248	Strain: Marseille-P2749	GB: LT576389	Unnamed	Unassigned
+201BS011	HMT-201	Fusobacterium periodonticum	Clone: BS011	GB: AF432130	Named	Oral
+201_5405	HMT-201	Fusobacterium periodonticum	Strain: ATCC 33693	GB: X55405	Named	Oral
+370_1217	HMT-370	Fusobacterium sp. HMT 370	Strain: E9_12	GB: AF481217	Unnamed	Oral
+202_7812	HMT-202	Fusobacterium nucleatum subsp. polymorphum	Strain: ATCC 10953	GB: AF287812	Named	Oral
+953_0020	HMT-953	Fusobacterium hwasookii	Strain: ChDC F128	GB: ALVD01000020	Named	Oral
+203FV003	HMT-203	Fusobacterium sp. HMT 203	Clone: FV003	GB: GQ422730	Unnamed	Oral
+203CY024	HMT-203	Fusobacterium sp. HMT 203	Clone: CY024	GB: AF287809	Unnamed	Oral
+203_I035	HMT-203	Fusobacterium sp. HMT 203	Clone: _I035	GB: AF287815	Unnamed	Oral
+698_3496	HMT-698	Fusobacterium nucleatum subsp. nucleatum	Strain: ATCC 25586	GB: AJ133496	Named	Oral
+205FL002	HMT-205	Fusobacterium sp. HMT 205	Clone: FL002	GB: GU350452	Phylotype	Oral
+420_8617	HMT-420	Fusobacterium nucleatum subsp. animalis	Clone: C4AKM033	GB: AY278617	Named	Oral
+420_5404	HMT-420	Fusobacterium nucleatum subsp. animalis	Strain: NCTC 12276	GB: X55404	Named	Oral
+204CZ006	HMT-204	Fusobacterium sp. HMT 204	Clone: CZ006	GB: AF287810	Phylotype	Oral
+200_R002	HMT-200	Fusobacterium nucleatum subsp. vincentii	Clone: _R002	GB: AF287806	Named	Oral
+689_6965	HMT-689	Fusobacterium naviforme	Strain: DMS 20699	GB: AJ006965	Named	Oral
+200_0026	HMT-200	Fusobacterium nucleatum subsp. vincentii	Strain: ATCC 49256	GB: NZ_AABF02000026	Named	Oral
+200_7962	HMT-200	Fusobacterium nucleatum subsp. vincentii	Clone: 071075_343	GB: JQ477962	Named	Oral
+200AJ050	HMT-200	Fusobacterium nucleatum subsp. vincentii	Clone: AJ050	GB: AF287805	Named	Oral
+837_8342	HMT-837	Sneathia sanguinegens	Strain: CCUG 41628	GB: NR_118342	Named	Oral
+844_8425	HMT-844	Sneathia amnii [Not Validly Published]	Strain: AMN-1	GB: AY078425	Named	Oral
+219EI022	HMT-219	Leptotrichia sp. HMT 219	Clone: EI022	GB: AF385572	Phylotype	Oral
+845F0264	HMT-845	Leptotrichia goodfellowii	Strain: F0264	GB: FJ577259	Named	Oral
+221FP036	HMT-221	Leptotrichia sp. HMT 221	Clone: FP036	GB: AF432138	Unnamed	Oral
+217DT031	HMT-217	Leptotrichia sp. HMT 217	Clone: DT031	GB: AF366276	Phylotype	Oral
+392_7053	HMT-392	Leptotrichia sp. HMT 392	Clone: P2PB_51	GB: AY207053	Phylotype	Oral
+215DR011	HMT-215	Leptotrichia sp. HMT 215	Clone: DR011	GB: AF385518	Unnamed	Oral
+212BU064	HMT-212	Leptotrichia sp. HMT 212	Clone: BU064	GB: AY008309	Unnamed	Oral
+498IK040	HMT-498	Leptotrichia sp. HMT 498	Clone: IK040	GB: AY349387	Unnamed	Oral
+218EI013	HMT-218	Leptotrichia sp. HMT 218	Clone: EI013	GB: AF385571	Phylotype	Oral
+847F0260	HMT-847	Leptotrichia sp. HMT 847	Strain: F0260	GB: FJ577250	Unnamed	Unassigned
+225_FEA2	HMT-225	Leptotrichia sp. HMT 225	Strain: FEA2	GB: GQ422731	Unnamed	Oral
+225HE052	HMT-225	Leptotrichia sp. HMT 225	Clone: HE052	GB: GQ422732	Unnamed	Oral
+563_7788	HMT-563	Leptotrichia buccalis	Strain: not listed	GB: L37788	Named	Oral
+224_7813	HMT-224	Leptotrichia hofstadii	Strain: FAC5	GB: AF287813	Named	Oral
+909-Wade	HMT-909	Leptotrichia sp. HMT 909	Clone: CP4_C6	GB: KC203062	Phylotype	Oral
+223F138	HMT-223	Leptotrichia sp. HMT 223	Clone: _F138	GB: AF287814	Phylotype	Oral
+463GT020	HMT-463	Leptotrichia sp. HMT 463	Clone: GT020	GB: AY349385	Phylotype	Oral
+417_8621	HMT-417	Leptotrichia sp. HMT 417	Clone: C3MKM102	GB: AY278621	Unnamed	Oral
+222F0279	HMT-222	Leptotrichia wadei	Strain: F0279	GB: tbd	Named	Oral
+222_7816	HMT-222	Leptotrichia wadei	Strain: A39FD	GB: AF287816	Named	Oral
+214DE081	HMT-214	Leptotrichia shahii	Clone: DE081	GB: AF366268	Named	Oral
+213DA069	HMT-213	Leptotrichia hongkongensis	Clone: DA069	GB: AF287811	Named	Oral
+879F0557	HMT-879	Leptotrichia sp. HMT 879	Strain: F0557	GB: tbd	Unnamed	Oral
+075_F058	HMT-075	Ruminococcaceae [G-1] [G-1] bacterium HMT 075	Clone: _F058	GB: AF287779	Phylotype	Oral
+085BU014	HMT-085	Ruminococcaceae [G-2] [G-2] bacterium HMT 085	Clone: BU014	GB: AF385563	Phylotype	Oral
+935_8649	HMT-935	Fastidiosipila sanguinis	Clone: nck255g10c1	GB: KF098649	Named	Unassigned
+366_1208	HMT-366	Ruminococcaceae [G-3] [G-3] bacterium HMT 366	Clone: MCE3_9	GB: AF481208	Phylotype	Unassigned
+381_8854	HMT-381	Ruminococcaceae [G-3] [G-3] bacterium HMT 381	Clone: P4PB_122	GB: AF538854	Phylotype	Unassigned
+229N115A	HMT-229	Arthrospira platensis	Strain: HZ01	GB: EU427543	Named	Unassigned
+229N115B	HMT-229	Arthrospira platensis	Strain: CHM	GB: KJ463625	Named	Unassigned
+843_3837	HMT-843	Dialister micraerophilus	Strain: ADV 04.01	GB: AF473837	Named	Oral
+736Dpneu	HMT-736	Dialister pneumosintes	Strain: ATCC 33048	GB: X82500	Named	Oral
+119BS016	HMT-119	Dialister sp. HMT 119	Clone: BS016	GB: AF287786	Phylotype	Oral
+118GBA27	HMT-118	Dialister invisus	Strain: GBA27	GB: AF287788	Named	Oral
+118BS095	HMT-118	Dialister invisus	Clone: BS095	GB: AF287787	Named	Oral
+122BU057	HMT-122	Megasphaera micronuciformis	Clone: BU057	GB: AF385566	Named	Oral
+122_6527	HMT-122	Megasphaera micronuciformis	Clone: 16sps19-3e12.p1k	GB: FM996527	Named	Oral
+841_6094	HMT-841	Megasphaera sp. HMT 841	Clone: Y14	GB: DQ666094	Phylotype	Unassigned
+121BB166	HMT-121	Anaeroglobus geminatus	Clone: BB166	GB: AF287783	Named	Oral
+123_9043	HMT-123	Megasphaera sp. HMT 123	Clone: ELU0026-000128	GB: HQ749043	Phylotype	Oral
+123_9314	HMT-123	Megasphaera sp. HMT 123	Clone: ELU0026-000399	GB: HQ749314	Phylotype	Oral
+780_7189	HMT-780	Veillonella sp. HMT 780	Clone: HB016	GB: DQ087189	Unnamed	Oral
+780F0009	HMT-780	Veillonella sp. HMT 780	Strain: F0009	GB: GQ422743	Unnamed	Oral
+917_6290	HMT-917	Veillonella sp. HMT 917	Clone: H2-plate10_E12	GB: HQ176290	Phylotype	Oral
+917-Wade	HMT-917	Veillonella sp. HMT 917	Clone: EL130	GB: JQ406541	Phylotype	Oral
+524_3631	HMT-524	Veillonella atypica	Clone: MB5_P17	GB: DQ003631	Named	Oral
+524Vatyp	HMT-524	Veillonella atypica	Strain: DSM 20739	GB: X84007	Named	Oral
+160_X031	HMT-160	Veillonella dispar	Clone: _X031	GB: GQ422726	Named	Oral
+160Vdisp	HMT-160	Veillonella dispar	Strain: DSM 20735	GB: X84006	Named	Oral
+887_5167	HMT-887	Veillonella denticariosi	Strain: CCUG 54362	GB: EF185167	Named	Oral
+161_X042	HMT-161	Veillonella parvula	Clone: _X042	GB: AF287781	Named	Oral
+161_X002	HMT-161	Veillonella parvula	Clone: _X002	GB: GU350451	Named	Oral
+161AA050	HMT-161	Veillonella parvula	Clone: AA050	GB: AF287782	Named	Oral
+161Vparv	HMT-161	Veillonella parvula	Strain: DSM 2008	GB: X84005	Named	Oral
+161BU083	HMT-161	Veillonella parvula	Clone: BU083	GB: AF366266	Named	Oral
+158BI029	HMT-158	Veillonella rogosae	Clone: BI029	GB: GQ422725	Named	Oral
+158F0412	HMT-158	Veillonella rogosae	Strain: F0412	GB: tbd	Named	Oral
+129FNA3	HMT-129	Veillonellaceae [G-1] [G-1] bacterium HMT 129	Strain: FNA3	GB: GQ422718	Lost	Oral
+132CS015	HMT-132	Veillonellaceae [G-1] [G-1] bacterium HMT 132	Clone: CS015	GB: AF287791	Phylotype	Oral
+150_K024	HMT-150	Veillonellaceae [G-1] [G-1] bacterium HMT 150	Clone: _K024	GB: GQ422721	Phylotype	Oral
+150_7052	HMT-150	Veillonellaceae [G-1] [G-1] bacterium HMT 150	Clone: P2PA_80	GB: AY207052	Phylotype	Oral
+135DM071	HMT-135	Veillonellaceae [G-1] [G-1] bacterium HMT 135	Clone: DM071	GB: AF287790	Phylotype	Oral
+918-Wade	HMT-918	Veillonellaceae [G-1] [G-1] bacterium HMT 918	Clone: DL111	GB: JQ406537	Phylotype	Unassigned
+135_0932	HMT-135	Veillonellaceae [G-1] [G-1] bacterium HMT 135	Clone: ncd1699h10c1	GB: JF140932	Phylotype	Oral
+148EZ011	HMT-148	Veillonellaceae [G-1] [G-1] bacterium HMT 148	Clone: EZ011	GB: AF385578	Phylotype	Unassigned
+145EW079	HMT-145	Veillonellaceae [G-1] [G-1] bacterium HMT 145	Clone: EW079	GB: AF385502	Phylotype	Oral
+483JS031	HMT-483	Veillonellaceae [G-1] [G-1] bacterium HMT 483	Clone: JS031	GB: AY349410	Phylotype	Oral
+155GAA14	HMT-155	Veillonellaceae [G-1] [G-1] bacterium HMT 155	Strain: GAA14	GB: AF287789	Lost	Oral
+155_8628	HMT-155	Veillonellaceae [G-1] [G-1] bacterium HMT 155	Clone: C3MLM071	GB: AY278628	Lost	Oral
+684_1878	HMT-684	Mitsuokella multacida	Strain: NCTC 10934	GB: X81878	Named	Unassigned
+131CS002	HMT-131	Mitsuokella sp. HMT 131	Clone: CS002	GB: AF287795	Unnamed	Oral
+131_8627	HMT-131	Mitsuokella sp. HMT 131	Clone: C5AKM062	GB: AY278627	Unnamed	Oral
+521_3628	HMT-521	Mitsuokella sp. HMT 521	Clone: MB5_P06	GB: DQ003628	Phylotype	Oral
+521_3746	HMT-521	Mitsuokella sp. HMT 521	Clone: 9-1-7	GB: AY423746	Phylotype	Oral
+501JI021	HMT-501	Selenomonas sp. HMT 501	Clone: JI021	GB: AY349409	Phylotype	Unassigned
+442_1820	HMT-442	Selenomonas sp. HMT 442	Clone: P4PA_145	GB: AY341820	Phylotype	Oral
+134DD020	HMT-134	Selenomonas sp. HMT 134	Clone: DD020	GB: AF287794	Phylotype	Oral
+151_K168	HMT-151	Selenomonas sputigena	Clone: _K168	GB: GQ422722	Named	Oral
+151Ssput	HMT-151	Selenomonas sputigena	Strain: ATCC 35185	GB: AF287793	Named	Oral
+151_N011	HMT-151	Selenomonas sputigena	Clone: _N001	GB: GQ422723	Named	Oral
+937_5618	HMT-937	Selenomonas sp. HMT 937	Clone: nck300f01c1	GB: KF105618	Phylotype	Oral
+130CI002	HMT-130	Selenomonas noxia	Clone: CI002	GB: AF287798	Named	Oral
+130Snoxi	HMT-130	Selenomonas noxia	Strain: ATCC 43541	GB: AF287799	Named	Oral
+133CS024	HMT-133	Selenomonas sp. HMT 133	Clone: CS024	GB: AF287796	Unnamed	Oral
+137DS051	HMT-137	Selenomonas sp. HMT 137	Clone: DS051	GB: AF366273	Unnamed	Oral
+124Sart	HMT-124	Selenomonas artemidis	Strain: ATCC 43528	GB: GQ422716	Named	Oral
+124AA024	HMT-124	Selenomonas artemidis	Clone: AA024	GB: AF287797	Named	Oral
+124F0399	HMT-124	Selenomonas artemidis	Strain: F0399	GB: HM596274	Named	Oral
+892F0426	HMT-892	Selenomonas sp. HMT 892	Strain: F0426	GB: tbd	Unnamed	Oral
+920-Wade	HMT-920	Selenomonas sp. HMT 920	Strain: W5150	GB: tbd	Unnamed	Oral
+149_7169	HMT-149	Selenomonas sp. HMT 149	Clone: 070007_022	GB: JQ457169	Unnamed	Oral
+149FT050	HMT-149	Selenomonas sp. HMT 149	Clone: FT050	GB: AY349403	Unnamed	Oral
+136_3497	HMT-136	Selenomonas sp. HMT 136	Clone: ncd2234b08c1	GB: JF193497	Unnamed	Oral
+136DO042	HMT-136	Selenomonas sp. HMT 136	Clone: DO042	GB: AF385514	Unnamed	Oral
+478F0592	HMT-478	Selenomonas sp. HMT 478	Strain: F0592	GB: tbd	Unnamed	Oral
+478GI064	HMT-478	Selenomonas sp. HMT 478	Clone: GI064	GB: AY349404	Unnamed	Oral
+479GT010	HMT-479	Selenomonas sp. HMT 479	Clone: GT010	GB: AY349405	Lost	Oral
+388_8861	HMT-388	Selenomonas sp. HMT 388	Clone: P4PA_36	GB: AF538861	Phylotype	Unassigned
+726_0963	HMT-726	Centipeda periodontii	Strain: DSM 2778	GB: AJ010963	Named	Oral
+481_4667	HMT-481	Selenomonas sp. HMT 481	Clone: 069096_081	GB: JQ454667	Lost	Oral
+481IK004	HMT-481	Selenomonas sp. HMT 481	Clone: IK004	GB: AY349407	Lost	Oral
+126EY047	HMT-126	Selenomonas sp. HMT 126	Clone: EY047	GB: AF385576	Unnamed	Oral
+919WadeA	HMT-919	Selenomonas sp. HMT 919	Strain: W7667	GB: tbd	Unnamed	Oral
+126AJ036	HMT-126	Selenomonas sp. HMT 126	Clone: AJ036	GB: AF287800	Unnamed	Oral
+936_4994	HMT-936	Selenomonas sp. HMT 936	Clone: ncd436f04c1	GB: HM324994	Phylotype	Unassigned
+146EW084	HMT-146	Selenomonas sp. HMT 146	Clone: EW084	GB: AF385503	Lost	Oral
+139Sdian	HMT-139	Selenomonas dianae	Strain: ATCC 43527	GB: AF287801	Named	Oral
+139DY027	HMT-139	Selenomonas dianae	Clone: DY027	GB: AF385492	Named	Oral
+139_Z048	HMT-139	Selenomonas dianae	Clone: _Z048	GB: GQ422719	Named	Oral
+919WadeB	HMT-919	Selenomonas sp. HMT 919	Strain: W7667	GB: tbd	Unnamed	Oral
+639Sinfe	HMT-639	Selenomonas infelix	Strain: ATCC 43532	GB: AF287802	Named	Oral
+138DS071	HMT-138	Selenomonas sp. HMT 138	Clone: DS071	GB: AF366274	Unnamed	Oral
+125AH132	HMT-125	Selenomonas flueggei	Clone: AH132	GB: AF287804	Named	Oral
+125_6593	HMT-125	Selenomonas flueggei	Clone: ELU0080-000358	GB: HQ776593	Named	Oral
+500JM048	HMT-500	Lachnospiraceae [G-8] [G-8] bacterium HMT 500	Clone: JM048	GB: AY349389	Unnamed	Oral
+500-Wade	HMT-500	Lachnospiraceae [G-8] [G-8] bacterium HMT 500	Strain: W11650	GB: tbd	Unnamed	Oral
+086BU061	HMT-086	Lachnospiraceae [G-7] [G-7] bacterium HMT 086	Clone: BU061	GB: AF385567	Phylotype	Oral
+163AH153	HMT-163	Lachnospiraceae [G-7] [G-7] bacterium HMT 163	Clone: AH153	GB: AF287769	Phylotype	Oral
+094DA074	HMT-094	Lachnospiraceae [G-10] [G-10] bacterium HMT 094	Clone: DA074	GB: AF287768	Phylotype	Unassigned
+451_6846	HMT-451	Catonella sp. HMT 451	Clone: 071071_215	GB: JQ476846	Phylotype	Oral
+164BR063	HMT-164	Catonella sp. HMT 164	Clone: BR063	GB: AF385556	Phylotype	Oral
+165EZ006	HMT-165	Catonella morbi	Clone: EZ006	GB: AF385577	Named	Oral
+165_7151	HMT-165	Catonella morbi	Strain: ATCC 51271	GB: X87151	Named	Oral
+096DO008	HMT-096	Lachnospiraceae [G-2] [G-2] bacterium HMT 096	Clone: DO008	GB: AF385508	Unnamed	Oral
+635_7152	HMT-635	Johnsonella ignava	Strain: ATCC 51276	GB: X87152	Named	Oral
+166CK051	HMT-166	Johnsonella sp. HMT 166	Clone: CK051	GB: AF287774	Phylotype	Oral
+088CH017	HMT-088	Lachnospiraceae [G-2] [G-2] bacterium HMT 088	Clone: CH017	GB: AF287775	Phylotype	Oral
+100EI074	HMT-100	Lachnospiraceae [G-3] [G-3] bacterium HMT 100	Clone: EI074	GB: AF385573	Phylotype	Oral
+496JI012	HMT-496	Lachnoanaerobaculum sp. HMT 496	Clone: JI012	GB: AY349379	Phylotype	Unassigned
+089CK004	HMT-089	Lachnoanaerobaculum sp. HMT 089	Clone: CK004	GB: AF287776	Phylotype	Unassigned
+083BR088	HMT-083	Lachnoanaerobaculum sp. HMT 083	Clone: BR088	GB: AF385557	Phylotype	Oral
+083BS091	HMT-083	Lachnoanaerobaculum sp. HMT 083	Clone: BS091	GB: AF385562	Phylotype	Oral
+494IR009	HMT-494	Lachnoanaerobaculum saburreum	Clone: IR009	GB: AY349376	Named	Oral
+494_RDP	HMT-494	Lachnoanaerobaculum saburreum	Strain: DSM 3986	GB: RDP	Named	Oral
+082F0431	HMT-082	Lachnoanaerobaculum orale	Strain: F0431	GB: tbd	Named	Oral
+082BE088	HMT-082	Lachnoanaerobaculum orale	Clone: BE088	GB: AF385552	Named	Oral
+107F0167	HMT-107	Lachnoanaerobaculum umeaense	Strain: F0167	GB: tbd	Named	Oral
+090CK030	HMT-090	Butyrivibrio sp. HMT 090	Clone: CK030	GB: AF287773	Phylotype	Unassigned
+080BB124	HMT-080	Butyrivibrio sp. HMT 080	Clone: BB124	GB: AF287772	Phylotype	Oral
+455GI038	HMT-455	Butyrivibrio sp. HMT 455	Clone: GI038	GB: AY349374	Phylotype	Oral
+095_9956	HMT-095	Shuttleworthia satelles	Strain: D143K-13	GB: AF399956	Named	Oral
+924_9209	HMT-924	Lachnospiraceae [G-9] [G-9] bacterium HMT 924	Clone: rRNA436	GB: AY959209	Phylotype	Unassigned
+373_1221	HMT-373	Stomatobaculum sp. HMT 373	Clone: MCE9_173	GB: AF481221	Phylotype	Oral
+910-Wade	HMT-910	Stomatobaculum sp. HMT 910	Clone: CL133	GB: JQ406544	Phylotype	Oral
+419_8618	HMT-419	Stomatobaculum longum	Clone: C4ALM087	GB: AY278618	Named	Oral
+097DO016	HMT-097	Stomatobaculum sp. HMT 097	Clone: DO016	GB: AF385510	Unnamed	Oral
+102FB046	HMT-102	Oribacterium sp. HMT 102	Clone: FB046	GB: GQ422713	Unnamed	Oral
+102_1218	HMT-102	Oribacterium sp. HMT 102	Clone: MCE7_60	GB: AF481218	Unnamed	Oral
+078F263b	HMT-078	Oribacterium sp. HMT 078	Strain: F0263b	GB: tbd	Unnamed	Oral
+078F263a	HMT-078	Oribacterium sp. HMT 078	Strain: F0263a	GB: tbd	Unnamed	Oral
+078AO068	HMT-078	Oribacterium sp. HMT 078	Clone: AO068	GB: AF287771	Unnamed	Oral
+078F0262	HMT-078	Oribacterium sp. HMT 078	Strain: F0262	GB: tbd	Unnamed	Oral
+457F0268	HMT-457	Oribacterium sinus	Strain: F0268	GB: FJ577261	Named	Oral
+934_5570	HMT-934	Oribacterium parvum	Strain: ACB1	GB: NR_125570	Named	Oral
+934FTB41	HMT-934	Oribacterium parvum	Strain: FTB41	GB: AF287770	Named	Oral
+108F0425	HMT-108	Oribacterium asaccharolyticum	Strain: F0425	GB: tbd	Named	Oral
+108_5571	HMT-108	Oribacterium asaccharolyticum	Strain: ACB7	GB: NR_125571	Named	Oral
+435_1821	HMT-435	Syntrophomonadaceae [VIII][G-1] [VIII][G-1] bacterium HMT 435	Clone: P4PB_66	GB: AY341821	Phylotype	Unassigned
+167GEA8	HMT-167	Peptococcus sp. HMT 167	Strain: GEA8	GB: GQ422727	Lost	Oral
+167_1292	HMT-167	Peptococcus sp. HMT 167	Clone: 34q_22	GB: HE681292	Lost	Oral
+168_I070	HMT-168	Peptococcus sp. HMT 168	Clone: _I070	GB: AF287780	Phylotype	Oral
+402_7065	HMT-402	Clostridiales [F-1][G-2] [F-1][G-2] bacterium HMT 402	Clone: P4PA_66	GB: AY207065	Phylotype	Unassigned
+093_1213	HMT-093	Clostridiales [F-1][G-1] [F-1][G-1] bacterium HMT 093	Clone: MCE7_107	GB: AF481213	Phylotype	Oral
+876F0540	HMT-876	Clostridiales [F-3][G-1] [F-3][G-1] bacterium HMT 876	Strain: F0540	GB: tbd	Unnamed	Unassigned
+655_4533	HMT-655	Eubacterium limosum	Strain: KIST612	GB: NR_074533	Named	Unassigned
+538CK057	HMT-538	Pseudoramibacter alactolyticus	Clone: CK057	GB: AF287778	Named	Oral
+542_6462	HMT-542	Peptostreptococcus anaerobius	Strain: NCTC 11460	GB: AY326462	Named	Oral
+112CK035	HMT-112	Peptostreptococcus stomatis	Clone: CK035	GB: AF287763	Named	Oral
+112A21H2	HMT-112	Peptostreptococcus stomatis	Strain: A21H2	GB: GQ422715	Named	Oral
+539_6962	HMT-539	Filifactor alocis	Strain: ATCC 35896	GB: AJ006962	Named	Oral
+081BB142	HMT-081	Peptostreptococcaceae [XI][G-7] [XI][G-7] bacterium HMT 081	Clone: BB142	GB: AF287764	Unnamed	Oral
+081W5028	HMT-081	Peptostreptococcaceae [XI][G-7] [XI][G-7] bacterium HMT 081	Strain: W5028	GB: tbd	Unnamed	Oral
+377_4629	HMT-377	Peptostreptococcaceae [XI][G-7] [XI][G-7] yurii subspp. yurii & margaretiae	Strain: ATCC 43713	GB: L34629	Named	Oral
+377_5259	HMT-377	Peptostreptococcaceae [XI][G-7] [XI][G-7] yurii subspp. yurii & margaretiae	Strain: ATCC 43715	GB: NR_115259	Named	Oral
+106A03MT	HMT-106	Peptostreptococcaceae [XI][G-7] [XI][G-7] yurii subsp. schtitka	Strain: A03MT	GB: AF287765	Named	Oral
+922_2838	HMT-922	Peptostreptococcaceae [XI][G-7] [XI][G-7] bacterium HMT 922	Clone: ncd2459c12c2	GB: JF212838	Phylotype	Oral
+759_5987	HMT-759	Peptostreptococcaceae [XI][G-5] [XI][G-5] saphenum	Strain: ATCC 49989	GB: U65987	Named	Oral
+493JH012	HMT-493	Peptostreptococcaceae [XI][G-5] [XI][G-5] bacterium HMT 493	Clone: JH012	GB: AY349373	Phylotype	Unassigned
+382_1251	HMT-382	Peptostreptococcaceae [XI][G-8] [XI][G-8] bacterium HMT 382	Clone: 44q_16	GB: HE681251	Phylotype	Unassigned
+369_1212	HMT-369	Peptostreptococcaceae [XI][G-4] [XI][G-4] bacterium HMT 369	Clone: MCE10_174	GB: AF481212	Phylotype	Oral
+103_2604	HMT-103	Peptostreptococcaceae [XI][G-4] [XI][G-4] bacterium HMT 103	Clone: PUS9.170	GB: AJ012604	Phylotype	Oral
+495JS001	HMT-495	Peptostreptococcaceae [XI][G-3] [XI][G-3] bacterium HMT 495	Clone: JS001	GB: AY349378	Phylotype	Oral
+950_9965	HMT-950	Peptostreptococcaceae [XI][G-3] [XI][G-3] bacterium HMT 950	Clone: 101E03	GB: AM419965	Phylotype	Unassigned
+557_3038	HMT-557	Peptostreptococcaceae [XI][G-9] [XI][G-9] brachy	Strain: ATCC 33089	GB: U13038	Named	Oral
+091CK047	HMT-091	Peptostreptococcaceae [XI][G-2] [XI][G-2] bacterium HMT 091	Clone: CK047	GB: AF287762	Phylotype	Oral
+105_3039	HMT-105	Peptostreptococcaceae [XI][G-1] [XI][G-1] infirmum	Strain: W1471	GB: U13039	Named	Oral
+467_6963	HMT-467	Peptostreptococcaceae [XI][G-1] [XI][G-1] sulci	Strain: ATCC 35585	GB: AJ006963	Named	Oral
+383_8856	HMT-383	Peptostreptococcaceae [XI][G-1] [XI][G-1] bacterium HMT 383	Clone: P2PB_46	GB: AF538856	Phylotype	Unassigned
+673_3037	HMT-673	Peptostreptococcaceae [XI][G-6] [XI][G-6] minutum	Strain: SC 87K	GB: U13037	Named	Oral
+694_6274	HMT-694	Peptostreptococcaceae [XI][G-6] [XI][G-6] nodatum	Strain: ATCC 33099	GB: Z36274	Named	Oral
+042W9173	HMT-042	Mogibacterium timidum	Strain: W9173	GB: tbd	Named	Oral
+742_1701	HMT-742	Mogibacterium pumilum	Strain: ATCC 700696	GB: AB021701	Named	Unassigned
+691_7875	HMT-691	Mogibacterium neglectum	Strain: ATCC 700924	GB: AB037875	Named	Oral
+593_7874	HMT-593	Mogibacterium diversum	Strain: ATCC 700923	GB: AB037874	Named	Oral
+008_1702	HMT-008	Mogibacterium vescum	Strain: ATCC 700697	GB: AB021702	Named	Unassigned
+929W2294	HMT-929	Peptoniphilaceae [G-3] [G-3] bacterium HMT 929	Strain: W2294	GB: tbd	Unnamed	Unassigned
+790EX153	HMT-790	Peptoniphilaceae [G-2] [G-2] bacterium HMT 790	Clone: EX153	GB: AY134899	Phylotype	Unassigned
+375_1225	HMT-375	Peptoniphilus sp. HMT 375	Strain: E3_32	GB: AF481225	Unnamed	Unassigned
+548_3382	HMT-548	Peptoniphilus asaccharolyticus	Strain: JCM 1765	GB: NR_113382	Named	Unassigned
+386_8859	HMT-386	Peptoniphilus sp. HMT 386	Clone: P4PA_156	GB: AF538859	Unnamed	Unassigned
+836F0141	HMT-836	Peptoniphilus lacrimalis	Strain: F0141	GB: GQ422750	Named	Oral
+836_1812	HMT-836	Peptoniphilus lacrimalis	Strain: JCM 8139	GB: AB971812	Named	Oral
+187N108A	HMT-187	Peptoniphilus sp. HMT 187	Clone: nbu60f02c1	GB: GQ004621	Unnamed	Unassigned
+840_4147	HMT-840	Peptoniphilus indolicus	Strain: ATCC 29427	GB: D14147	Named	Unassigned
+109N074A	HMT-109	Peptoniphilus harei	Strain: DSM 10020	GB: NR_026358	Named	Unassigned
+662_4677	HMT-662	Finegoldia magna	Strain: ATCC 29328	GB: NR_074677	Named	Unassigned
+662N000B	HMT-662	Finegoldia magna	Strain: JCM 1766	GB: NR_113383	Named	Unassigned
+393_7059	HMT-393	Parvimonas sp. HMT 393	Strain: P4P_31	GB: AY207059	Unnamed	Oral
+110HE064	HMT-110	Parvimonas sp. HMT 110	Clone: HE064	GB: GQ422714	Unnamed	Oral
+110_6545	HMT-110	Parvimonas sp. HMT 110	Strain: MDA2346-2	GB: AY286545	Unnamed	Oral
+111FG014	HMT-111	Parvimonas micra	Clone: FG014	GB: AF385543	Named	Oral
+111_3523	HMT-111	Parvimonas micra	Strain: ATCC 33270	GB: AY323523	Named	Oral
+111BS044	HMT-111	Parvimonas micra	Clone: BS044	GB: AF385559	Named	Oral
+113DA014	HMT-113	Peptoniphilaceae [G-1] [G-1] bacterium HMT 113	Clone: DA014	GB: AF287766	Unnamed	Oral
+113W5053	HMT-113	Peptoniphilaceae [G-1] [G-1] bacterium HMT 113	Strain: W5053	GB: tbd	Unnamed	Oral
+859_3373	HMT-859	Anaerococcus lactolyticus	Strain: JCM 8140	GB: AB673373	Named	Unassigned
+788F0127	HMT-788	Anaerococcus tetradius	Strain: F0127	GB: GQ422749	Named	Unassigned
+738_4575	HMT-738	Anaerococcus prevotii	Strain: DSM 20548	GB: NR_074575	Named	Unassigned
+294N130A	HMT-294	Anaerococcus sp. HMT 294	Clone: nck304d08c1	GB: KF105918	Phylotype	Unassigned
+290N129A	HMT-290	Anaerococcus sp. HMT 290	Clone: L	GB: KC169766	Unnamed	Unassigned
+295N131A	HMT-295	Anaerococcus sp. HMT 295	Clone: 8405254	GB: HM587319	Phylotype	Unassigned
+017N004D	HMT-017	Anaerococcus octavius	Clone: ncd2140f09c1	GB: JF184195	Named	Unassigned
+017N004C	HMT-017	Anaerococcus octavius	Clone: ncd1029f10c1	GB: HM342530	Named	Unassigned
+017N004A	HMT-017	Anaerococcus octavius	Strain: NCTC 9810	GB: NR_026360	Named	Unassigned
+017N004B	HMT-017	Anaerococcus octavius	Clone: nck39c12c1	GB: KF078478	Named	Unassigned
+017N004E	HMT-017	Anaerococcus octavius	Clone: nbw1100f10c1	GB: GQ054733	Named	Unassigned
+569_3729	HMT-569	Eggerthia catenaformis	Strain: ATCC 25536	GB: M23729	Named	Oral
+484_4201	HMT-484	Erysipelothrix tonsillarum	Strain: NA	GB: AB034201	Named	Unassigned
+904-Wade	HMT-904	Erysipelotrichaceae [G-1] [G-1] bacterium HMT 904	Clone: BL163	GB: JQ406531	Phylotype	Oral
+905-Wade	HMT-905	Erysipelotrichaceae [G-1] [G-1] bacterium HMT 905	Clone: DL151	GB: JQ406538	Phylotype	Oral
+603_0064	HMT-603	Bulleidia extructa	Strain: DSM 13220	GB: AF220064	Named	Oral
+678_4915	HMT-678	Solobacterium moorei	Strain: AHP 13983	GB: AY044915	Named	Oral
+504_3614	HMT-504	Mollicutes [G-1] [G-1] bacterium HMT 504	Clone: MB1_G23	GB: DQ003614	Phylotype	Oral
+906-Wade	HMT-906	Mollicutes [G-2] [G-2] bacterium HMT 906	Clone: CP6_C1	GB: KC203059	Phylotype	Oral
+732_9061	HMT-732	Mycoplasma pneumoniae	Strain: ATCC 15531	GB: M29061	Named	Unassigned
+616_7334	HMT-616	Mycoplasma genitalium	Strain: G37	GB: X77334	Named	Unassigned
+656_4581	HMT-656	Mycoplasma lipophilum	Strain: ATCC 27104	GB: M24581	Named	Oral
+607_2937	HMT-607	Mycoplasma fermentans	Strain: JER	GB: NR_102937	Named	Unassigned
+632_2265	HMT-632	Mycoplasma hominis	Strain: PG21	GB: AJ002265	Named	Unassigned
+561_5586	HMT-561	Mycoplasma buccale	Strain: CH20247	GB: AF125586	Named	Unassigned
+754_5583	HMT-754	Mycoplasma salivarium	Strain: PG20	GB: AF125583	Named	Oral
+704_6060	HMT-704	Mycoplasma orale	Strain: ATCC 23714	GB: AY796060	Named	Oral
+606_5590	HMT-606	Mycoplasma faucium	Strain: DC333	GB: AF125590	Named	Oral
+824_5951	HMT-824	Bacillus anthracis	Strain: Delta Ames	GB: AF155951	Named	Unassigned
+468_8486	HMT-468	Bacillus subtilis	Strain: ATCC 6633	GB: AB018486	Named	Unassigned
+182N107A	HMT-182	Anoxybacillus flavithermus	Strain: R18839	GB: AJ586357	Named	Unassigned
+614_2628	HMT-614	Lysinibacillus fusiformis	Strain: NBRC 15717	GB: NR_112628	Named	Unassigned
+045_3853	HMT-045	Bacillus clausii	Strain: O-4	GB: AB043853	Named	Unassigned
+045_7498	HMT-045	Bacillus clausii	Strain: SIN84	GB: AJ297498	Named	Unassigned
+786F0064	HMT-786	Paenibacillus phoenicis	Strain: F0064	GB: GQ422747	Named	Unassigned
+048_5540	HMT-048	Paenibacillus sp. HMT 048	Clone: CA007	GB: AF385540	Phylotype	Unassigned
+921-Wade	HMT-921	Paenibacillus glucanolyticus	Strain: W10507	GB: tbd	Named	Unassigned
+555_5050	HMT-555	Gemella bergeri	Strain: FDC A31SC	GB: AY005050	Named	Oral
+928W2231	HMT-928	Gemella sp. HMT 928	Strain: W2231	GB: tbd	Unnamed	Oral
+046_3366	HMT-046	Gemella morbillorum	Strain: 933-88	GB: Y13366	Named	Oral
+046_4327	HMT-046	Gemella morbillorum	Strain: ATCC 27824	GB: L14327	Named	Oral
+626_4326	HMT-626	Gemella haemolysans	Strain: ATCC 10379	GB: L14326	Named	Oral
+757C24KA	HMT-757	Gemella sanguinis	Strain: C24KA	GB: AY005051	Named	Oral
+243N119A	HMT-243	Jeotgalicoccus huakuii	Strain: NY-2	GB: NR_116550	Named	Unassigned
+233N117A	HMT-233	Staphylococcus schleiferi	Strain: CHM	GB: CP009470	Named	Unassigned
+331N138A	HMT-331	Staphylococcus auricularis	Strain: WK 811M	GB: NR_036897	Named	Unassigned
+117N085A	HMT-117	Staphylococcus cohnii	Strain: GH 137	GB: NR_036902	Named	Unassigned
+142N090A	HMT-142	Staphylococcus pettenkoferi	Strain: B3117	GB: NR_114596	Named	Unassigned
+128N088A	HMT-128	Staphylococcus lugdunensis	Strain: HKU09-01	GB: NR_074868	Named	Unassigned
+120N086A	HMT-120	Staphylococcus haemolyticus	Strain: JCSC1435	GB: NR_074994	Named	Unassigned
+127N087A	HMT-127	Staphylococcus hominis	Strain: DM 122	GB: NR_036956	Named	Unassigned
+141N089A	HMT-141	Staphylococcus pasteuri	Strain: ATCC 51129	GB: NR_024669	Named	Unassigned
+076_7603	HMT-076	Staphylococcus warneri	Strain: ATCC 27836	GB: L37603	Named	Oral
+550_3357	HMT-550	Staphylococcus aureus	Strain: ATCC 12600	GB: D83357	Named	Nasal
+601_3363	HMT-601	Staphylococcus epidermidis	Strain: ATCC 14990	GB: D83363	Named	Oral
+116N084B	HMT-116	Staphylococcus capitis	Strain: MAW 8436	GB: NR_027519	Named	Unassigned
+116N084A	HMT-116	Staphylococcus capitis	Strain: JCM 2420	GB: NR_113348	Named	Unassigned
+567_9935	HMT-567	Staphylococcus caprae	Strain: ATCC 35538	GB: AB009935	Named	Oral
+241N118A	HMT-241	Brochothrix thermosphacta	Strain: FSL F6-1036	GB: NR_113587	Named	Unassigned
+825_0894	HMT-825	Listeria monocytogenes	Strain: R1653	GB: EU090894	Named	Unassigned
+389_0541	HMT-389	Abiotrophia defectiva	Strain: ATCC 49176	GB: D50541	Named	Oral
+312N133A	HMT-312	Aerococcus viridans	Strain: NBRC 12219	GB: NR_104708	Named	Unassigned
+813_6959	HMT-813	Dolosigranulum pigrum	Clone: BF0002A144	GB: AM696959	Named	Nasal
+831_7475	HMT-831	Alloiococcus otitis	Strain: not listed	GB: AY957475	Named	Unassigned
+596_2532	HMT-596	Granulicatella elegans	Clone: ncd32a06c1	GB: HM252532	Named	Oral
+596_5408	HMT-596	Granulicatella elegans	Strain: 2640-91	GB: Y15408	Named	Oral
+534_0540	HMT-534	Granulicatella adiacens	Strain: ATCC 49175	GB: D50540	Named	Oral
+534_2027	HMT-534	Granulicatella adiacens	Strain: TKT1	GB: AB022027	Named	Oral
+756_9108	HMT-756	Lactobacillus salivarius	Strain: ATCC 11741	GB: AF089108	Named	Oral
+716_9212	HMT-716	Lactobacillus paracasei	Strain: JCM 8130	GB: D79212	Named	Oral
+568_6552	HMT-568	Lactobacillus casei	Strain: JCM 1136	GB: D16552	Named	Unassigned
+749_3146	HMT-749	Lactobacillus rhamnosus	Strain: F11	GB: AF243146	Named	Oral
+558_0328	HMT-558	Lactobacillus brevis	Strain: K9	GB: AF090328	Named	Unassigned
+861_9598	HMT-861	Lactobacillus plantarum	Strain: ZDY78	GB: EU559598	Named	Unassigned
+883_9211	HMT-883	Lactobacillus pentosus	Strain: ATCC 8041	GB: D79211	Named	Unassigned
+418_8619	HMT-418	Lactobacillus parafarraginis	Strain: C4M_55	GB: AY278619	Named	Unassigned
+884_1659	HMT-884	Lactobacillus rapi	Strain: YIT 11204	GB: NR_041659	Named	Unassigned
+424_8620	HMT-424	Lactobacillus kisonensis	Strain: C4M_47	GB: AY278620	Named	Unassigned
+881_5055	HMT-881	Lactobacillus buchneri	Strain: JCM 1115	GB: AB205055	Named	Unassigned
+608_8819	HMT-608	Lactobacillus fermentum	Strain: ATCC 14931	GB: M58819	Named	Oral
+818_3507	HMT-818	Lactobacillus reuteri clade 818	Strain: DSM 20016	GB: L23507	Named	Unassigned
+938_0337	HMT-938	Lactobacillus reuteri clade 938	Strain: K16	GB: KC700337	Named	Unassigned
+052DoxG2	HMT-052	Lactobacillus sp. HMT 052	Strain: DoxG2	GB: GQ422710	Lost	Unassigned
+816_3776	HMT-816	Lactobacillus coleohominis	Strain: DSM 14060	GB: AM113776	Named	Unassigned
+051DoxG3	HMT-051	Lactobacillus vaginalis	Strain: DoxG3	GB: GQ422709	Named	Oral
+882_4230	HMT-882	Lactobacillus panis	Strain: DSM 6035	GB: X94230	Named	Oral
+709F0423	HMT-709	Lactobacillus oris	Strain: F0423	GB: HM596285	Named	Unassigned
+838_6329	HMT-838	Lactobacillus iners	Strain: CCUG 28746	GB: Y16329	Named	Vaginal
+615_8820	HMT-615	Lactobacillus gasseri	Strain: DSM 20243	GB: M58820	Named	Oral
+819_2515	HMT-819	Lactobacillus johnsonii	Strain: ATCC 33200	GB: AJ002515	Named	Unassigned
+839_3159	HMT-839	Lactobacillus jensenii	Strain: KC36b	GB: AF243159	Named	Vaginal
+817_7362	HMT-817	Lactobacillus crispatus	Strain: DSM 20584	GB: Y17362	Named	Oral
+529_8203	HMT-529	Lactobacillus acidophilus	Strain: ATCC 4356	GB: AB008203	Named	Unassigned
+461_7065	HMT-461	Lactobacillus ultunensis	Strain: CCUG 48460	GB: NR_117065	Named	Unassigned
+461HT070	HMT-461	Lactobacillus ultunensis	Clone: HT070	GB: AY349383	Named	Unassigned
+604_8293	HMT-604	Enterococcus faecalis	Strain: not listed	GB: Y18293	Named	Unassigned
+880_0801	HMT-880	Enterococcus durans	Strain: CECT 411	GB: AJ420801	Named	Unassigned
+801_9899	HMT-801	Enterococcus casseliflavus	Strain: 32	GB: AF039899	Named	Unassigned
+802_1004	HMT-802	Enterococcus saccharolyticus	Strain: ATCC 43076	GB: AF061004	Named	Unassigned
+803_6902	HMT-803	Enterococcus italicus	Strain: LMG 21727	GB: AJ626902	Named	Unassigned
+804_8837	HMT-804	Lactococcus lactis	Strain: ATCC 19435	GB: M58837	Named	Oral
+804N000B	HMT-804	Lactococcus lactis	Strain: NCDO 607	GB: NR_040954	Named	Oral
+745_3575	HMT-745	Streptococcus pyogenes	Strain: JCM 5674	GB: AB023575	Named	Oral
+537_5927	HMT-537	Streptococcus agalactiae	Strain: ATCC 27956	GB: AF015927	Named	Unassigned
+686_3965	HMT-686	Streptococcus mutans	Strain: NCTC 10449	GB: AJ243965	Named	Oral
+594_8350	HMT-594	Streptococcus downei	Strain: ATCC 33748	GB: AY188350	Named	Unassigned
+768_3966	HMT-768	Streptococcus sobrinus	Strain: NCTC 12279	GB: AJ243966	Named	Oral
+543_4678	HMT-543	Streptococcus anginosus	Strain: ATCC 33397	GB: AF104678	Named	Oral
+644_4671	HMT-644	Streptococcus intermedius	Strain: ATCC27335	GB: AF104671	Named	Oral
+576_4676	HMT-576	Streptococcus constellatus	Strain: ATCC27823	GB: AF104676	Named	Oral
+622_3931	HMT-622	Streptococcus gordonii	Strain: ATCC 10558	GB: AF003931	Named	Oral
+056AY020	HMT-056	Streptococcus sp. HMT 056	Clone: AY020	GB: AF385545	Unnamed	Oral
+728_8314	HMT-728	Streptococcus peroris	Strain: GTC848	GB: AB008314	Named	Oral
+948_7425	HMT-948	Streptococcus lactarius	Strain: MV1	GB: NR_117425	Named	Oral
+152N096A	HMT-152	Streptococcus thermophilus	Strain: ATCC 19258	GB: NR_042778	Named	Unassigned
+021_8353	HMT-021	Streptococcus vestibularis	Strain: ATCC 49124	GB: AY188353	Named	Oral
+755_8839	HMT-755	Streptococcus salivarius	Strain: ATCC 13419	GB: M58839	Named	Oral
+755N000A	HMT-755	Streptococcus salivarius	Strain: ATCC 7073	GB: NR_042776	Named	Oral
+578_8313	HMT-578	Streptococcus cristatus clade 578	Strain: NCTC 12479	GB: AB008313	Named	Oral
+886_9095	HMT-886	Streptococcus cristatus clade 886	Strain: LGM 21535	GB: AY099095	Named	Oral
+767_2856	HMT-767	Streptococcus sinensis	Strain: HKU4	GB: AF432856	Named	Oral
+066_1230	HMT-066	Streptococcus sp. HMT 066	Clone: MCE7_144	GB: AF481230	Unnamed	Oral
+066FN051	HMT-066	Streptococcus sp. HMT 066	Clone: FN051	GB: AF432135	Unnamed	Oral
+073-T1E5	HMT-073	Streptococcus australis	Strain: T1-E5	GB: AF385525	Named	Oral
+073_4974	HMT-073	Streptococcus australis	Strain: ATCC 700641	GB: AF184974	Named	Oral
+721_3933	HMT-721	Streptococcus parasanguinis clade 721	Strain: ATCC 15912	GB: AF003933	Named	Oral
+057BE024	HMT-057	Streptococcus sp. HMT 057	Clone: BE024	GB: AF385550	Lost	Oral
+411_8634	HMT-411	Streptococcus parasanguinis clade 411	Clone: C4MKM110	GB: AY278634	Named	Oral
+411_8629	HMT-411	Streptococcus parasanguinis clade 411	Clone: C2MKM006	GB: AY278629	Named	Oral
+411_9017	HMT-411	Streptococcus parasanguinis clade 411	Clone: SJTU_F_10_28	GB: EF399017	Named	Oral
+411_8635	HMT-411	Streptococcus parasanguinis clade 411	Clone: C5AKM109	GB: AY278635	Named	Oral
+758_3928	HMT-758	Streptococcus sanguinis	Strain: ATCC 10556	GB: AF003928	Named	Oral
+398_7051	HMT-398	Streptococcus oralis subsp. dentisani clade 398	Clone: P2PA_41	GB: AY207051	Named	Oral
+398_5045	HMT-398	Streptococcus oralis subsp. dentisani clade 398	Strain: SK34	GB: AY005045	Named	Oral
+638_8315	HMT-638	Streptococcus infantis clade 638	Strain: ATCC 700779	GB: AB008315	Named	Oral
+431_8633	HMT-431	Streptococcus infantis clade 431	Clone: C4AKM023	GB: AY278633	Named	Oral
+064_8609	HMT-064	Streptococcus sp. HMT 064	Clone: C5MLM037	GB: AY278609	Unnamed	Oral
+423_8630	HMT-423	Streptococcus sp. HMT 423	Clone: C2MKM128	GB: AY278630	Lost	Oral
+734_3930	HMT-734	Streptococcus pneumoniae	Strain: ATCC 33400	GB: AF003930	Named	Nasal
+677_3929	HMT-677	Streptococcus mitis	Strain: ATCC 49456	GB: AF003929	Named	Nasal
+070-12F	HMT-070	Streptococcus oralis subsp. tigurinus clade 070	Strain: Hans 12F	GB: GQ422711	Unnamed	Oral
+070-7A	HMT-070	Streptococcus oralis subsp. tigurinus clade 070	Strain: Hans 7A	GB: AY005040	Unnamed	Oral
+707_3932	HMT-707	Streptococcus oralis subsp. oralis	Strain: ATCC 35037	GB: AF003932	Named	Oral
+061DN025	HMT-061	Streptococcus sp. HMT 061	Clone: DN025	GB: AF432131	Lost	Oral
+074-T4E3	HMT-074	Streptococcus sp. HMT 074	Strain: T4-E3	GB: AF385526	Lost	Oral
+071_7062	HMT-071	Streptococcus oralis subsp. tigurinus clade 071	Clone: P4PA_13	GB: AY207062	Named	Oral
+071_8631	HMT-071	Streptococcus oralis subsp. tigurinus clade 071	Clone: C3ALM006	GB: AY278631	Named	Oral
+071_8234	HMT-071	Streptococcus oralis subsp. tigurinus clade 071	Strain: AZ_3a	GB: NR_118234	Named	Oral
+058_8632	HMT-058	Streptococcus oralis subsp. dentisani clade 058	Clone: C3MLM097	GB: AY278632	Named	Oral
+058BM035	HMT-058	Streptococcus oralis subsp. dentisani clade 058	Clone: BM035	GB: AY005043	Named	Oral
+058BW009	HMT-058	Streptococcus oralis subsp. dentisani clade 058	Clone: BW009	GB: AY005042	Named	Oral
