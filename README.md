@@ -20,6 +20,7 @@ chmod +x 99-Scripts/*.sh
 ./99-Scripts/01-download_16S_rRNA_DB_HOMD.py
 # Download database 
 ./99-Scripts/02-Retrieve_taxon_specific_sequences.sh
+fljf
 
 # 
 
