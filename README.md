@@ -16,11 +16,9 @@ cd Specific_rRNA_GeneSequences_HOMD
 chmod +x 99-Scripts/*.sh
 
 # Setup HOMD database (16S rRNA genes - RefSeq)
-./99-Scripts/01-Download_files-HOMD.sh
 ./99-Scripts/01-download_16S_rRNA_DB_HOMD.py
 # Download database 
-./99-Scripts/02-Retrieve_taxon_specific_sequences.sh
-fljf
+./99-Scripts/02-Retrieve_taxon_specific_sequences.py
 
 # 
 
