@@ -13,10 +13,16 @@ git clone https://github.com/juliantom/Specific_rRNA_GeneSequences_HOMD.git
 cd Specific_rRNA_GeneSequences_HOMD
 
 # Make scripts executable
-chmod +x 99-Scripts/*.sh
+chmod +x 99-Scripts/*.py
 
-# Setup HOMD database (16S rRNA genes - RefSeq)
-./99-Scripts/01-download_16S_rRNA_DB_HOMD.py
+# OPTIONAL
+# You can check you have all necessary programs available in the PATH by running the script below
+./99-Scripts/01-check_programs.py
+
+# Setup HOMD database (16S rRNA genes - RefSeq). This will download two files from the HOMD website (seqid and fasta file).
+# This only needs to be done once, HOMD is updated ~6-12 months.
+02-download_16S_rRNA_DB_HOMD.py
+
 # Download database 
 ./99-Scripts/02-Retrieve_taxon_specific_sequences.py
 
