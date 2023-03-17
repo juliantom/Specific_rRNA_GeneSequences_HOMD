@@ -1,13 +1,6 @@
 # Retrieving taxon-specific rRNA gene sequences from HOMD
 The goal of these programs is to obtain 16S rRNA genes (variable region) from the Human Oral Microbiome Database using genus or species information from NCBI databases (GenBank, RefSeq or both). It uses HOMD 16S rRNA dataset and NCBI *datasets* command-line tool [https://www.ncbi.nlm.nih.gov/datasets/] obtained form GitHub, so if you use this program please cite accordingly.<br>
 
-Citations:
-* Chen T, Yu WH, Izard J, Baranova OV, Lakshmanan A, Dewhirst FE. The Human Oral Microbiome Database: a web accessible resource for investigating oral microbe taxonomic and genomic information. Database (Oxford). 2010 Jul 6;2010:baq013. doi: 10.1093/database/baq013. PMID: 20624719; PMCID: PMC2911848.
-* Escapa IF, Chen T, Huang Y, Gajare P, Dewhirst FE, Lemon KP. New Insights into Human Nostril Microbiome from the Expanded Human Oral Microbiome Database (eHOMD): a Resource for the Microbiome of the Human Aerodigestive Tract. mSystems. 2018 Dec 4;3(6):e00187-18. doi: 10.1128/mSystems.00187-18. PMID: 30534599; PMCID: PMC6280432.
-* NCBI *datasets* (v14.17.0) [https://github.com/ncbi/datasets].
-
-
-
 ### Instructions
 The recommendation is to clone the repository and use the scripts with minimal modification.
 ```bash
@@ -57,3 +50,7 @@ Test taxa:<br>
 2. Leptotrichia
 3. Veillonella<br>
 
+### Citations:
+* Chen T, Yu WH, Izard J, Baranova OV, Lakshmanan A, Dewhirst FE. The Human Oral Microbiome Database: a web accessible resource for investigating oral microbe taxonomic and genomic information. Database (Oxford). 2010 Jul 6;2010:baq013. doi: 10.1093/database/baq013. PMID: 20624719; PMCID: PMC2911848.
+* Escapa IF, Chen T, Huang Y, Gajare P, Dewhirst FE, Lemon KP. New Insights into Human Nostril Microbiome from the Expanded Human Oral Microbiome Database (eHOMD): a Resource for the Microbiome of the Human Aerodigestive Tract. mSystems. 2018 Dec 4;3(6):e00187-18. doi: 10.1128/mSystems.00187-18. PMID: 30534599; PMCID: PMC6280432.
+* NCBI *datasets* (v14.17.0) [https://github.com/ncbi/datasets].
