@@ -33,7 +33,7 @@ prefix_user = os.path.basename(my_path)
 prefix_path_user = os.path.dirname(my_path)
 
 # Build the command string
-command = f'datasets summary genome taxon "{args.taxon}" --as-json-lines --assembly-source {args.db_source} | dataformat tsv genome --fields organism-name | grep -v "New" | grep -v "Organism Name" | sed -e "s/ sp\. oral taxon / sp\.-oral-taxon-/" > {args.prefix}-{args.db_source}-{datetime.date.today().strftime("%Y_%m_%d")}-names.txt'
+command = f'datasets summary genome taxon "{args.taxon}" --as-json-lines --assembly-source {args.db_source} | dataformat tsv genome --fields organism-name | grep -v "New" | grep -v "Organism Name" | sed -e "s/ oral taxon /-HMT-/" | sed -e "s/ sp\. HMT-/ sp\.-HMT-/" > {args.prefix}-{args.db_source}-{datetime.date.today().strftime("%Y_%m_%d")}-names.txt'
 
 # print parameters
 header_1 = f"{Fore.GREEN}{Style.BRIGHT}Parameters for 'datasets' and 'dataformat'\n-----------------------------------"
@@ -60,7 +60,7 @@ print(header_3)
 if output:
     # If output is not empty, print the number of genomes retrieved
     genome_names = [line.strip() for line in output.split('\n') if line]
-    genome_names = [line.replace('uncultured ','').replace('Candidatus ','').replace('Candidate ','') for line in genome_names]
+    genome_names = [line.replace('uncultured ','').replace('Candidatus ','').replace('Candidate ','').replace('candidate division ','').replace('phylum ','') for line in genome_names]
     if genome_names:
         footer_sub_1 = f"{Fore.GREEN}{Style.NORMAL}Fantastic news! {Fore.YELLOW}{Style.NORMAL}\nA total of {Fore.CYAN}{Style.BRIGHT}{len(genome_names)}{Fore.YELLOW}{Style.NORMAL} genomes were retrieved from '{Fore.CYAN}{Style.NORMAL}{args.db_source}' {Fore.YELLOW}{Style.NORMAL}database."
         footer_sub_2 = f'{Fore.YELLOW}{Style.NORMAL}-Output all {Fore.CYAN}{Style.BRIGHT}{args.taxon} {Fore.YELLOW}{Style.NORMAL}genomes: {Fore.CYAN}{Style.NORMAL}{args.prefix}-{args.db_source}-{datetime.date.today().strftime("%Y_%m_%d")}-names.txt'
