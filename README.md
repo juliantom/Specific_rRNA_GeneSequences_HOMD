@@ -50,7 +50,14 @@ Test taxa:<br>
 2. Leptotrichia
 3. Veillonella<br>
 
-### Citations:
+### Citations
 * Chen T, Yu WH, Izard J, Baranova OV, Lakshmanan A, Dewhirst FE. The Human Oral Microbiome Database: a web accessible resource for investigating oral microbe taxonomic and genomic information. Database (Oxford). 2010 Jul 6;2010:baq013. doi: 10.1093/database/baq013. PMID: 20624719; PMCID: PMC2911848.
 * Escapa IF, Chen T, Huang Y, Gajare P, Dewhirst FE, Lemon KP. New Insights into Human Nostril Microbiome from the Expanded Human Oral Microbiome Database (eHOMD): a Resource for the Microbiome of the Human Aerodigestive Tract. mSystems. 2018 Dec 4;3(6):e00187-18. doi: 10.1128/mSystems.00187-18. PMID: 30534599; PMCID: PMC6280432.
-* NCBI *datasets* (v14.17.0) [https://github.com/ncbi/datasets].
+* NCBI *datasets* [https://www.ncbi.nlm.nih.gov/datasets/].
+
+### Versions
+* HOMD 16S rRNA data (v15.22) [https://www.homd.org/ftp/16S_rRNA_refseq/HOMD_16S_rRNA_RefSeq/current/]
+    * seqid_info.txt
+    * HOMD_16S_rRNA_RefSeq_V15.22.fasta
+* *datasets* (v14.17.0) [https://github.com/ncbi/datasets]
+* 
