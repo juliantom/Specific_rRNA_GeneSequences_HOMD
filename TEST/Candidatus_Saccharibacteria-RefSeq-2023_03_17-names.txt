@@ -1,0 +1,78 @@
+candidate division TM7 bacterium JGI 0001002-L20
+candidate division TM7 genomosp. GTL1
+candidate division TM7 single-cell isolate TM7a
+candidate division TM7 single-cell isolate TM7b
+candidate division TM7 single-cell isolate TM7c
+Candidatus Minimicrobia vallesae
+Candidatus Mycosynbacter amalyticus
+Candidatus Nanogingivalis gingivitcus
+Candidatus Nanoperiomorbus periodonticus
+Candidatus Nanoperiomorbus periodonticus
+Candidatus Nanosynbacter featherlites
+Candidatus Nanosynbacter lyticus
+Candidatus Nanosynbacter sp.-HMT-352
+Candidatus Nanosynbacter sp.-HMT-352
+Candidatus Nanosynbacter sp.-HMT-352
+Candidatus Nanosynbacter sp.-HMT-352
+Candidatus Nanosynbacter sp. TM7-008
+Candidatus Nanosynbacter sp. TM7-033
+Candidatus Nanosynbacter sp. TM7-053
+Candidatus Nanosynbacter sp. TM7-057
+Candidatus Nanosynbacter sp. TM7-075
+Candidatus Nanosynbacter sp. TM7-076
+Candidatus Nanosynbacter sp. TM7-087
+Candidatus Nanosyncoccus alces
+Candidatus Nanosyncoccus nanoralicus
+Candidatus Nanosynsacchari sp. TM7_ANC_38.39_G1_1
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-488
+Candidatus Saccharibacteria bacterium-HMT-955
+Candidatus Saccharibacteria bacterium-HMT-955
+Candidatus Saccharibacteria bacterium-HMT-955
+Candidatus Saccharibacteria bacterium RAAC3_TM7_1
+Candidatus Saccharibacteria bacterium YM_S32_TM7_50_20
+Candidatus Saccharimonas aalborgensis
+TM7 phylum sp.-HMT-346
+TM7 phylum sp.-HMT-346
+TM7 phylum sp.-HMT-346
+TM7 phylum sp.-HMT-348
+TM7 phylum sp.-HMT-348
+TM7 phylum sp.-HMT-348
+TM7 phylum sp.-HMT-348
+TM7 phylum sp.-HMT-349
+TM7 phylum sp.-HMT-350
+TM7 phylum sp.-HMT-351
+TM7 phylum sp.-HMT-351
+TM7 phylum sp.-HMT-351
+TM7 phylum sp.-HMT-351
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-352
+TM7 phylum sp.-HMT-353
+TM7 phylum sp.-HMT-356
+TM7 phylum sp.-HMT-952

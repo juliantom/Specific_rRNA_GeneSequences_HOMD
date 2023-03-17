@@ -1,0 +1,27 @@
+[32m[1mParameters for 'datasets' and 'dataformat'
+-----------------------------------
+[33m[22mTaxon of interest: [36m'Candidatus Saccharibacteria'
+[33mDB source: [36mRefSeq
+[33mTarget rank: [36mgenus
+[33mDir path: [36mTEST
+[33mPrefix: [36mCandidatus_Saccharibacteria
+[33m[22mDate: [36m2023/03/17
+
+[32m[1mRunning script...
+-----------------------------------
+[33m[22mThis may take a while if [36m[1mCandidatus Saccharibacteria [33m[22mhas many genomes...
+[33mCommand requested: [36mdatasets summary genome taxon "Candidatus Saccharibacteria" --as-json-lines --assembly-source RefSeq | dataformat tsv genome --fields organism-name | grep -v "New" | grep -v "Organism Name" | sed -e "s/ oral taxon /-HMT-/" | sed -e "s/ sp\. HMT-/ sp\.-HMT-/" > TEST/Candidatus_Saccharibacteria-RefSeq-2023_03_17-names.txt
+
+[32m[1mResults
+-----------------------------------
+[32m[22mFantastic news! [33m[22m
+A total of [36m[1m78[33m[22m genomes were retrieved from '[36m[22mRefSeq' [33m[22mdatabase.
+[33m[22m-Output all [36m[1mCandidatus Saccharibacteria [33m[22mgenomes: [36m[22mTEST/Candidatus_Saccharibacteria-RefSeq-2023_03_17-names.txt
+[33m[22mCorresponding to [36m[22m10 [33m[22mgenus.
+[33m[22m-Output all [36m[1mgenus [33m[22min [36m[1mCandidatus Saccharibacteria: [36m[22mTEST/Candidatus_Saccharibacteria-RefSeq-2023_03_17-names-genus.txt
+[32m[22m
+[32m[1mLOG file
+-----------------------------------
+[33m[22mLOG file can be found: [36mTEST/Candidatus_Saccharibacteria-RefSeq-2023_03_17-genus-log.txt
+
+
