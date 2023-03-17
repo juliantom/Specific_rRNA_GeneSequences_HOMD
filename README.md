@@ -55,9 +55,9 @@ Test taxa:<br>
 * Escapa IF, Chen T, Huang Y, Gajare P, Dewhirst FE, Lemon KP. New Insights into Human Nostril Microbiome from the Expanded Human Oral Microbiome Database (eHOMD): a Resource for the Microbiome of the Human Aerodigestive Tract. mSystems. 2018 Dec 4;3(6):e00187-18. doi: 10.1128/mSystems.00187-18. PMID: 30534599; PMCID: PMC6280432.
 * NCBI *datasets* [https://www.ncbi.nlm.nih.gov/datasets/].
 
-### Versions
+### Databases and program versions
 * HOMD 16S rRNA data (v15.22) [https://www.homd.org/ftp/16S_rRNA_refseq/HOMD_16S_rRNA_RefSeq/current/]
     * seqid_info.txt
     * HOMD_16S_rRNA_RefSeq_V15.22.fasta
-* *datasets* (v14.17.0) [https://github.com/ncbi/datasets]
-* 
+* NCBI *datasets* (v14.17.0) [https://github.com/ncbi/datasets]
+* Programs written with *Python* (v3.9.7)
