@@ -1,10 +1,10 @@
 # Retrieving taxon-specific rRNA gene sequences from HOMD
-The goal of these programs is to obtain 16S rRNA genes (variable region) from the Human Oral Microbiome Database using genus or species information from NCBI databases (GenBank, RefSeq or both). It uses HOMD 16S rRNA dataset and NCBI *datasets* command-line tool [https://www.ncbi.nlm.nih.gov/datasets/] obtained form GitHub, so if you use this program please cite accordingly.<br>
+The goal of these programs is to obtain 16S rRNA genes (variable region) from the Human Oral Microbiome Database using genus or species information from NCBI databases (GenBank, RefSeq or both). It uses HOMD 16S rRNA dataset and NCBI *datasets* command-line tool obtained form GitHub.<br>
 
 ### Instructions
-The recommendation is to clone the repository and use the scripts with minimal modification.
+1. Obtain the repository
 ```bash
-# Create and move to a desired folder (example: 'myRibosomalGenes')
+# Create and move to a working directory (example: 'myRibosomalGenes')
 mkdir myOralRibosomalGenes && cd myOralRibosomalGenes
 
 # Clone the repository
@@ -13,22 +13,26 @@ git clone https://github.com/juliantom/Specific_rRNA_GeneSequences_HOMD.git
 # Change to folder 
 cd Specific_rRNA_GeneSequences_HOMD
 
-# Make scripts executable
+# Make scripts executable and available
 chmod +x 99-Scripts/*.py
+export PATH="$PWD/bin:$PATH"
 
-# OPTIONAL
-# You can check you have all necessary programs available in the PATH by running the script below
+```
+2. Check if required programs are in the PATH
+```bash
+# This program will try to find 'datasets' and 'dataformat' programs. See help menu for other uses.
 ./99-Scripts/01-check_programs.py
-
-# Setup HOMD database (16S rRNA genes - RefSeq). This will download two files from the HOMD website (seqid and fasta file).
-# This only needs to be done once, HOMD is updated ~6-12 months.
-02-download_16S_rRNA_DB_HOMD.py
-
-# Download database 
-./99-Scripts/02-Retrieve_taxon_specific_sequences.py
-
-# 
-
+```
+3. Setup HOMD database (16S rRNA genes - RefSeq). This will download two files from the HOMD website (seqid and fasta file). *This only needs to be done once, HOMD is updated ~6-12 months.*
+```bash
+99-Scripts/02-download_16S_rRNA_DB_HOMD.py
+```
+4. For your target taxon, create a list of unique genus or species from genomes deposited in NCBI (GenBank, RefSeq, both).
+```bash
+# Change to your working dir
+cd ..
+# Create taxon list
+Specific_rRNA_GeneSequences_HOMD/99-Scripts/03-create_taxon_list.py
 ```
 ---
 ### Scripts
