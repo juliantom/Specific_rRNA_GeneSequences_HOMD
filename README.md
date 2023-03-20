@@ -2,10 +2,10 @@
 The goal of these programs is to obtain 16S rRNA genes (variable region) from the Human Oral Microbiome Database using genus or species information from NCBI databases (GenBank, RefSeq or both). It uses HOMD 16S rRNA dataset and NCBI *datasets* command-line tool obtained form GitHub.<br>
 
 ### Instructions
-1. Setup repository
+1. Setup repository.
 ```bash
-# Create and move to a working directory (example: 'myRibosomalGenes')
-mkdir myOralRibosomalGenes && cd myOralRibosomalGenes
+# Create and move to directory were repository will be stored.
+mkdir $PWD/myOralRibosomalGenes && cd $PWD/myOralRibosomalGenes
 
 # Clone the repository
 git clone https://github.com/juliantom/Specific_rRNA_GeneSequences_HOMD.git
@@ -16,23 +16,29 @@ cd Specific_rRNA_GeneSequences_HOMD
 # Make scripts executable and available
 chmod +x 99-Scripts/*.py
 export PATH="$PWD/bin:$PATH"
+
+# Check installation. This should prompt a help menu.
+spec-check_programs -h
 ```
-2. Check if required programs are in the PATH
+2. Verify required programs are in the PATH.
 ```bash
-# This program will try to find 'datasets' and 'dataformat' programs. See help menu for other uses.
+# By default his program will try to find 'datasets' and 'dataformat'.
 spec-check_programs
+# You can also specify the program manually.
+spec-check_programs --programs datasets,dataformat
 ```
-3. Setup HOMD database (16S rRNA genes - RefSeq). This will download two files from the HOMD website (seqid and fasta file). *This only needs to be done once, HOMD is updated ~6-12 months.*
+3. Setup HOMD database for 16S rRNA genes. This will download two files from the HOMD website (seqid and fasta file). **This only needs to be done once, HOMD is updated ~6-12 months.**
 ```bash
 spec-setup_homd_16SrRNA
 ```
 
 4. For your target taxon, create a list of unique genus or species from genomes deposited in NCBI (GenBank, RefSeq, both).
 ```bash
-# Change to your working dir
-cd ..
-# Create taxon list
-Specific_rRNA_GeneSequences_HOMD/99-Scripts/03-create_taxon_list.py
+# Create and change to your working dir
+mkdir $PWD/myOralRibosomalGenes-test && cd $PWD/myOralRibosomalGenes-test
+# Create taxon list.
+# Example. Target of interest: Porphyromonas, Rank of interest: species, DB of interest: GenBank
+spec-create_taxon_list --taxon Porphyromonas --db-source GenBank --prefix my_Porphyromonas --tax-rank species
 ```
 ---
 ### Scripts
