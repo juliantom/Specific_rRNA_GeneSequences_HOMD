@@ -1,0 +1,4 @@
+mkdir bin
+cp 99-Scripts/01-check_programs.py bin/spec-check_programs
+cp 99-Scripts/02-download_16S_rRNA_DB_HOMD.py bin/spec-setup_homd_16SrRNA
+cp 99-Scripts/03-create_taxon_list.py bin/spec-create_taxon_list
